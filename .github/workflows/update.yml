@@ -65,15 +65,8 @@ jobs:
           git-config-email: 84861620+iptv-bot[bot]@users.noreply.github.com
           commit-message: '[Bot] Deploy to GitHub Pages'
           clean: true
-      - name: move .api/streams.json to zkkm2580/api
-        uses: JamesIves/github-pages-deploy-action@4.1.1
+      - name: deploy streams.json to zkkm2580/api
         if: ${{ !env.ACT && (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main') }}
-        with:
-          repository-name: zkkm2580/api
-          branch: gh-pages
-          folder: .api
-          token: ${{ secrets.GH_TOKEN }}
-          git-config-name: iptv-bot[bot]
-          git-config-email: 84861620+iptv-bot[bot]@users.noreply.github.com
-          commit-message: '[Bot] Deploy to zkkm2580/api'
-          clean: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: npm run api:deploy
