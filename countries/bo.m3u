@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ATBLaPaz.bo" tvg-logo="" group-title="Undefined",ATB La Paz (614p) [Not 24/7]
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 tvg-id="ATBSantaCruz.bo" tvg-logo="" group-title="Undefined",ATB Santa Cruz (720p) [Not 24/7]
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="Ceacom.bo" tvg-logo="" group-title="Undefined",Ceacom [Not 24/7]
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gogo Play TV (720p)
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+#EXTINF:-1 tvg-id="PATLaPaz.bo" tvg-logo="" group-title="Undefined",PAT La Paz (720p) [Not 24/7]
+https://w8.redpat.tv:7777/play/120/index.m3u8
+#EXTINF:-1 tvg-id="PATSantaCruz.bo" tvg-logo="" group-title="Undefined",PAT Santa Cruz (720p) [Not 24/7]
+https://w8.redpat.tv:7777/play/110/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SEO TV 5 Deportes 2 (1080p) [Not 24/7]
+https://seo.tv.bo/tv/SEOtv_5B.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SEO TV 6 Novelas 2 (1080p)
+https://seo.tv.bo/tv/SEOTV6.m3u8
+#EXTINF:-1 tvg-id="TVU.bo" tvg-logo="" group-title="Undefined",TVU (720p) [Not 24/7]
+https://video.live.com.bo:3003/live/tvuumsalive.m3u8
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-logo="" group-title="Undefined",Unitel Santa Cruz (1080p) [Not 24/7]
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="UPPTV.bo" tvg-logo="" group-title="Undefined",UPP TV/Bolivisión SCZ (720p) [Not 24/7]
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8

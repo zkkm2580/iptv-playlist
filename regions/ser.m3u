@@ -1,0 +1,374 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="324.es" tvg-logo="" group-title="Undefined",3/24 (1080p)
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="16AnnieIncinta.it" tvg-logo="" group-title="Undefined",16 Anni e Incinta Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940a07d88ba90007b9cb71/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="" group-title="Undefined",24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="" group-title="Undefined",AMC (1080p) [Geo-blocked]
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="Andromeda.it" tvg-logo="" group-title="Undefined",Andromeda Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Avatar La Leggenda di Aang Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624da1cd2af90c0007c13205/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",BBC Drama
+https://bbceu-bbcdrama-2-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCDrama.es" tvg-logo="" group-title="Undefined",BBC Drama (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bella Italia (Radio) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/26
+#EXTINF:-1 tvg-id="CatfishTVShow.it" tvg-logo="" group-title="Undefined",Catfish TV Show Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f9ed2c75660007322bb7/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="CCMAExclusiu1.es" tvg-logo="" group-title="Undefined",CCMA Exclusiu 1 (1080p) [Not 24/7]
+https://directes-tv-cat.ccma.cat/live-origin/oca1-hls/master.m3u8
+#EXTINF:-1 tvg-id="CCMAExclusiu2.es" tvg-logo="" group-title="Undefined",CCMA Exclusiu 2 (1080p) [Not 24/7]
+https://directes-tv-cat.ccma.cat/live-origin/oca2-hls/master.m3u8
+#EXTINF:-1 tvg-id="CCMAExclusiu3.es" tvg-logo="" group-title="Undefined",CCMA Exclusiu 3 (1080p) [Not 24/7]
+https://directes-tv-cat.ccma.cat/live-origin/oca3-hls/master.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.it" tvg-logo="" group-title="Undefined",Clubbing TV Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802de3fd2d70000763bb83/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="ConsulenzeIllegali.it" tvg-logo="" group-title="Undefined",Consulenze Illegali Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="CorfuTV.gr" tvg-logo="" group-title="Undefined",Corfu TV (576p) [Not 24/7]
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",D Television (Antenna 10) (480p)
+https://ssh101.bozztv.com/ssh101/dtelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Doctor Who Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db27ce19000732d1aa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Due Fantagenitori Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="EmTV.tr" tvg-logo="" group-title="Undefined",Em TV (486p)
+https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Erga Lura TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/29
+#EXTINF:-1 tvg-id="ExOnTheBeach.it" tvg-logo="" group-title="Undefined",Ex On The Beach Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="FailArmy.it" tvg-logo="" group-title="Undefined",Failarmy
+https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Full Moon
+https://minerva-fullmoon-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GeordieShore.it" tvg-logo="" group-title="Undefined",Geordie Shore Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="GOLPLAY.es" tvg-logo="" group-title="Undefined",GOL PLAY (432p) [Geo-blocked]
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gold 78 (1080p)
+https://stream2.xdevel.com/video1s86-22/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Greek TV London (720p) [Not 24/7]
+https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Greek TV London (720p) [Not 24/7]
+https://vdo3.alphaserver.gr:3466/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hellenic TV (720p) [Not 24/7]
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Humanity Documentari
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-humanitydocit-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="IGN.it" tvg-logo="" group-title="Undefined",IGN Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608015ea48a6e800076f0f2f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",iHola Play
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IlBancodeiPugni.it" tvg-logo="" group-title="Undefined",Il Banco dei Pugni Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60e4507a06171800072339a3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Il mio amico Arnold Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6385eb5588399a000759ef45/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Il Testimone Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f0733df400076c9a2d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",InLire TV (1080p)
+https://5f22d76e220e1.streamlock.net/inlire/inlire/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Insurance Connect (720p)
+https://tsw.streamingwebtv24.it:1936/insuranceconnect/insuranceconnect/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Iunior TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Jazz Club (Radio) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/25
+#EXTINF:-1 tvg-id="JustforLaughs.it" tvg-logo="" group-title="Undefined",Just for Laughs Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KANAL 58 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KANAL 58 (1080p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kanal Antalya (720p)
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
+#EXTINF:-1 tvg-id="LesorelleMcLeod.it" tvg-logo="" group-title="Undefined",Le Sorelle McLeod Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MacGyver Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MAD Greekz (360p)
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicTV.gr" tvg-logo="" group-title="Undefined",Magic TV (480p)
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mai Dire Sì Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2bc2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Motor1 TV
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MutantX.it" tvg-logo="" group-title="Undefined",Mutant X Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802c209a26320007c92ad5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="" group-title="Undefined",NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="NetTV.mt" tvg-logo="" group-title="Undefined",NET [Geo-blocked]
+http://80.79.6.221:25461/smash/public/22
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="" group-title="Undefined",NOW TV
+http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ogün TV (360p)
+https://s01.vpis.io/ogun/ogun.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pimp My Ride Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf77279a0007f14861/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Planeta Junior
+https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Anaylos7.es" tvg-logo="" group-title="Undefined",Pluto TV Ana y los 7 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAnimakids.es" tvg-logo="" group-title="Undefined",Pluto TV Animakids (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAnimales.es" tvg-logo="" group-title="Undefined",Pluto TV Animales (288p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVAnime.it" tvg-logo="" group-title="Undefined",Pluto TV Anime Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.es" tvg-logo="" group-title="Undefined",Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineClasico.es" tvg-logo="" group-title="Undefined",Pluto TV Cine Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.es" tvg-logo="" group-title="Undefined",Pluto TV Cine Estelar (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVCinemaItaliano.it" tvg-logo="" group-title="Undefined",Pluto TV Cinema Italiano Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa7d8359b270007861489/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVCocina.es" tvg-logo="" group-title="Undefined",Pluto TV Cocina (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedia (Made in Spain) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCrime.it" tvg-logo="" group-title="Undefined",Pluto TV Crime Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVCucina.it" tvg-logo="" group-title="Undefined",Pluto TV Cucina Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6261868633a2890007e87885/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVDocumentari.it" tvg-logo="" group-title="Undefined",Pluto TV Documentary Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVFamily.it" tvg-logo="" group-title="Undefined",Pluto TV Family Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6123742451cce0000789fc7a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVFilmAzione.it" tvg-logo="" group-title="Undefined",Pluto TV Film Azione Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa17fb9f4490007e6419a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVFilmClassici.it" tvg-logo="" group-title="Undefined",Pluto TV Film Classici Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa3c446d73500075f0e24/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVFilmCommedia.it" tvg-logo="" group-title="Undefined",Pluto TV Film Commedia Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa512d67fd900072323db/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVFilmDrama.it" tvg-logo="" group-title="Undefined",Pluto TV Film Drama Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa42b5c2b8f0007197529/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVFilm.it" tvg-logo="" group-title="Undefined",Pluto TV Film Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa20a2e7f270007c4878d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVFilmRomantici.it" tvg-logo="" group-title="Undefined",Pluto TV Film Romantici Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa4a4cc92820007b663af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVFilmThriller.it" tvg-logo="" group-title="Undefined",Pluto TV Film Thriller Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa5e995132a00075f7005/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Horror Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVKids.es" tvg-logo="" group-title="Undefined",Pluto TV Kids (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Kids Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62444e195d2ab7000861694b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="MTVCatfishTVShow.es" tvg-logo="" group-title="Undefined",Pluto TV MTV Catfish (Spain) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1ab3c7778230000735cf41&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=305&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVMTVMusicMadeinSpain.us" tvg-logo="" group-title="Undefined",Pluto TV MTV Music Made in Spain (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="MTVOriginals.es" tvg-logo="" group-title="Undefined",Pluto TV MTV Originals (Spain) (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVNatura.it" tvg-logo="" group-title="Undefined",Pluto TV Natura Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVRealLife.it" tvg-logo="" group-title="Undefined",Pluto TV Real Life Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVReality.it" tvg-logo="" group-title="Undefined",Pluto TV Reality Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVSciFi.it" tvg-logo="" group-title="Undefined",Pluto TV Sci-Fi Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61728bb9ee3773000840c1fa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVSerie.it" tvg-logo="" group-title="Undefined",Pluto TV Serie Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVSport.it" tvg-logo="" group-title="Undefined",Pluto TV Sport Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVTeenStars.es" tvg-logo="" group-title="Undefined",Pluto TV Teen Stars (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVTelenovelas.es" tvg-logo="" group-title="Undefined",Pluto TV Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVTheWalkingDeadESP.us" tvg-logo="" group-title="Undefined",Pluto TV The Walking Dead ESP (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="" group-title="Undefined",Pluto TV Toons Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVTopGear.it" tvg-logo="" group-title="Undefined",Pluto TV Top Gear
+#EXTVLCOPT:http-referrer=https://pluto.tv/it/live-tv/64c109a4798def0008a6e03e
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Viaggi Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Western Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",POP Television (720p)
+https://stream1.aswifi.it/poptelevision/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Puttinu [Geo-blocked]
+http://80.79.6.221:25461/smash/public/5
+#EXTINF:-1 tvg-id="RadioItaliaTrendTVHD.it" tvg-logo="" group-title="Undefined",Radio Italia Trend
+https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Radio Radicale TV (240p) [Not 24/7]
+https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiItaliaAmerica.it" tvg-logo="" group-title="Undefined",Rai Italia America (360p)
+http://210.210.155.69/s/s63/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="RaiItaliaAsia.it" tvg-logo="" group-title="Undefined",RAI Italia Asia (576p)
+http://210.210.155.37/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rai Sport 2
+http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.it" tvg-logo="" group-title="Undefined",Rakuten Action Movies
+https://rakuten-actionmovies-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.it" tvg-logo="" group-title="Undefined",Rakuten Comedy Movies
+https://rakuten-comedymovies-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Documentaries
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.it" tvg-logo="" group-title="Undefined",Rakuten Drama
+https://rakuten-tvshows-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Family
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.it" tvg-logo="" group-title="Undefined",Rakuten Family
+https://rakuten-family-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlight.it" tvg-logo="" group-title="Undefined",Rakuten Spotlight
+https://rakuten-spotlight-6-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Top Free Italy (720p)
+https://rakuten-topfree-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Top Free Spain (720p)
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Shows Italy (720p)
+https://rakuten-tvshows-6-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Shows Spain (720p)
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Reklama TV (720p)
+https://5f22d76e220e1.streamlock.net/reklamatv/reklamatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Renegade Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ridiculousness Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rock Classics (Radio) [Geo-blocked]
+http://80.79.6.221:25461/smash/public/24
+#EXTINF:-1 tvg-id="RTL1025Doc.it" tvg-logo="" group-title="Undefined",RTL 102.5 Doc (1080p)
+https://streamcdnb12-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RTL 102.5 Extra (1080p)
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S26743519/49ksH8apMKou/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL1025News.it" tvg-logo="" group-title="Undefined",RTL 102.5 News (1080p)
+https://streamcdnb2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL1025RomeoJuliet.it" tvg-logo="" group-title="Undefined",RTL 102.5 Romeo&Juliet (1080p)
+https://streamcdnb4-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPiAsia.pt" tvg-logo="" group-title="Undefined",RTP Internacional Asia (480p)
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 tvg-id="SardegnaUno.it" tvg-logo="" group-title="Undefined",Sardegna Uno
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Sardegna1.m3u8
+#EXTINF:-1 tvg-id="Scherzierisate.it" tvg-logo="" group-title="Undefined",Scherzi e risate Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SerieTeen.it" tvg-logo="" group-title="Undefined",Serie Teen Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60940639add5910008c0cdd1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Settimo Cielo Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6245d3792792150007e20634/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Shorts [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00784-shortsinternati-shortstv-fast-italy-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Smash 7News [Geo-blocked]
+http://80.79.6.221:25461/smash/public/16
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Smash Arabija [Geo-blocked]
+http://80.79.6.221:25461/smash/public/18
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Smash Country [Geo-blocked]
+http://80.79.6.221:25461/smash/public/11
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Smash Explore [Geo-blocked]
+http://80.79.6.221:25461/smash/public/17
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Smash Food [Geo-blocked]
+http://80.79.6.221:25461/smash/public/9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Smash House of Rock [Geo-blocked]
+http://80.79.6.221:25461/smash/public/12
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Smash Music [Geo-blocked]
+http://80.79.6.221:25461/smash/public/10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Smash Radio 104.6FM [Geo-blocked]
+http://80.79.6.221:25461/smash/public/3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Smash Talk [Geo-blocked]
+http://80.79.6.221:25461/smash/public/15
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Smash Teleshopping [Geo-blocked]
+http://80.79.6.221:25461/smash/public/2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",South Park Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sportitalia Live 24
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Sportoutdoor.tv
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Squadra Speciale Cobra 11 Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625e6cc905e09f00073addee/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Super TV Brescia (720p)
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 tvg-id="SuperBrothersandSisters.it" tvg-logo="" group-title="Undefined",Super! Brothers and Sisters Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Super! Danger and Thunder Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8e3bca3766a0007387284/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperEroi.it" tvg-logo="" group-title="Undefined",Super! Eroi Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperiCarly.it" tvg-logo="" group-title="Undefined",Super! iCarly Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperPop.it" tvg-logo="" group-title="Undefined",Super! Pop Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Super! Rugrats Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8ddbbaed0390007b258a6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperSpongeBob.it" tvg-logo="" group-title="Undefined",Super! SpongeBob Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd4c9e5b49e00079bfed9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SuperStar.it" tvg-logo="" group-title="Undefined",Super! Star Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Super! Victorious Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c012504faf1c0007abfa93/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="" group-title="Undefined",Syria TV (1080p)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Teen Mom Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e7fc8c0d061100083946a9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Teenage Mutant Ninja Turtles Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62619405c733e8000732d1fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TeleCampione [Geo-blocked]
+https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TeleFormula (720p) [Not 24/7]
+https://wms60.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Telepace Roma (720p)
+https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TeleRegione 118 (576p)
+https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Televisa Telenovelas
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="" group-title="Undefined",Teve2 (1080p)
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="" group-title="Undefined",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.it" tvg-logo="" group-title="Undefined",The Pet Collective
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Torba TV (720p) [Not 24/7]
+https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr" tvg-logo="" group-title="Undefined",TRT EBA Ortaokul (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV7 Meteo (404p)
+https://www.gruppotv7.com:8090/hls/meteo.m3u8
+#EXTINF:-1 tvg-id="TV8International.tr" tvg-logo="" group-title="Undefined",TV8 International (720p)
+http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8
+#EXTINF:-1 tvg-id="TVEm.tr" tvg-logo="" group-title="Undefined",TV Em (486p)
+https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tv Famypanc HD (1080p)
+https://vidistream.ddns.net/hls/espana.play.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-logo="" group-title="Undefined",TVE Internacional Europe-Asia [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="" group-title="Undefined",TVE Star HD (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TVR Sicilia HD (1080p) [Not 24/7]
+https://ssh101.bozztv.com/ssh101/televita/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",VH1+ Canzoni Italiane (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63724270c7c2360007b170e8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",VH1+ Christmas Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8e137865c590007ecae3c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="PlutoTVVH1Plus.it" tvg-logo="" group-title="Undefined",VH1+ Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61cd822216e2fd00086d0aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",VH1+ Music Legends Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e8cc10ca869f00078efca8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",VH1+ Rock Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/636a4173e34fd50007534542/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vivaldi TV (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01523-mezzo-vivalditv-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldPokerTour.it" tvg-logo="" group-title="Undefined",World Poker Tour Italy (720p)
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WP Minerva Pictures
+https://minerva-wp-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Yamato Animation
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Εγνατία Τηλεόραση (576p)
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8

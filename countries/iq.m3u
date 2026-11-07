@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Al Anwar 2
+http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Al Janoub TV
+http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alqanat9 TV (1080p)
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Althaqalayn TV
+http://63b03f7689049.streamlock.net:1935/live/16/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Althaqalayn TV
+http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dua Channel (720p)
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hudhud TV
+http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Safeer TV (1080p)
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="" group-title="Undefined",Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8

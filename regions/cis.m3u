@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",5 ԹԻՎԻ ՊԼՅՈՒՍ (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s9/index.m3u8
+#EXTINF:-1 tvg-id="Channel8Belarus.by" tvg-logo="" group-title="Undefined",8 канал (Витебск) (576p) [Not 24/7]
+http://95.46.208.8:24433/art
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",49 канал (Новосибирск)
+https://49channel.mediacdn.ru/live/cdn/49channel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",A21 VITAL AUTOSPORT [Not 24/7]
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 tvg-id="AzadTVMinus2.az" tvg-logo="" group-title="Undefined",Azad TV -2 (ATV) (720p)
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 tvg-id="AzadTVMinus4.az" tvg-logo="" group-title="Undefined",Azad TV -4 (ATV) (720p) [Not 24/7]
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",BBC World News (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DanceHits80
+http://89.111.136.7:8080/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Deutsche Welle (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",E!
+https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="ExoPlayer2/2.37",Ictimai TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/ictimai/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kəpəz TV (540p) [Not 24/7]
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kulinar TV Show
+https://api.alpaca.t62a.com/hls/9110/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Manas TV (1080p)
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="" group-title="Undefined",Nickelodeon
+http://31.148.48.15/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Relax
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryEnglish.ru" tvg-logo="" group-title="Undefined",RT Documentary English (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocumentaryRussian.ru" tvg-logo="" group-title="Undefined",RTД
+https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="SochiLiveHD.ru" tvg-logo="" group-title="Undefined",Sochi Live HD (720p) [Not 24/7]
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TRK 555 (720p)
+http://trk555.tv:8888/live
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TVOE TV HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Viju Sport (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:-1 tvg-id="Belarus5Internet.by" tvg-logo="" group-title="Undefined",Беларусь 5 Интернет (1080p) [Not 24/7]
+https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Вести ФМ
+https://player.smotrim.ru/iframe/stream/live_id/52035
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Детское кино International
+https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-id="TVRain.ru" tvg-logo="" group-title="Undefined",Дождь (1080p) [Geo-blocked]
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Запад 24 (Калининград)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",КИНО-1 INTERNATIONAL
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-id="KinopremyeraHD.ru" tvg-logo="" group-title="Undefined",Кинопремьера HD
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Кнопка ТВ
+https://api.alpaca.t62a.com/hls/9116/index.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="" group-title="Undefined",Кухня ТВ HD
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+#EXTINF:-1 tvg-id="MirPlus2.ru" tvg-logo="" group-title="Undefined",Мир +2 (540p) [Not 24/7]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="MirPlus4.ru" tvg-logo="" group-title="Undefined",Мир +4 (540p) [Not 24/7]
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="MirPlus7.ru" tvg-logo="" group-title="Undefined",Мир +7 (540p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Музыка 1 International
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Музыка 2 International
+https://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Музыка Кино International
+https://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-id="NanoHD.ru" tvg-logo="" group-title="Undefined",Нано ТВ HD
+http://s1.tv-nano.com/Nano_rec/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",НТВ +1
+https://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",НТВ +2
+https://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",НТВ +4
+https://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",НТВ +7
+https://cdn.ntv.ru/ntv7/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVHD.ru" tvg-logo="" group-title="Undefined",НТВ HD
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 tvg-id="OstrosyuzhetnoyeHD.ru" tvg-logo="" group-title="Undefined",Остросюжетное HD
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Первый информационный (1080p)
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Плюс ТВ
+http://178.124.179.122:8088/PlusTV/index.m3u8
+#EXTINF:-1 tvg-id="PremialnoeHD.ru" tvg-logo="" group-title="Undefined",Премиальное HD
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Россия РТР
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/211.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Россия РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
+#EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="" group-title="Undefined",РТР Планета Азия
+https://player.smotrim.ru/iframe/stream/live_id/63254
+#EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="" group-title="Undefined",РТР Планета Евро
+https://player.smotrim.ru/iframe/stream/live_id/4941
+#EXTINF:-1 tvg-id="RTRPlanetaCIS.ru" tvg-logo="" group-title="Undefined",РТР Планета СНГ
+https://player.smotrim.ru/iframe/stream/live_id/63253
+#EXTINF:-1 tvg-id="RTRPlanetaUSA.us" tvg-logo="" group-title="Undefined",РТР Планета США
+https://player.smotrim.ru/iframe/stream/live_id/63250
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Самара 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Сибирь 24 (Красноярск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Сибирь 24 (Новосибирск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Смотрим Частный Детектив
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Телеканал Краснодар
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ТК Краснодар
+https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ТНТ Exclusiv TV (576p)
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 tvg-id="TolkHD.ru" tvg-logo="" group-title="Undefined",Толк HD
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Урал 24 (Челябинск)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/russia1-hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԼԱՎՖՀԱՔ (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s48/index.m3u8

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="" group-title="Undefined",AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 tvg-id="BETEast.us" tvg-logo="" group-title="Undefined",BET
+https://streamer1.nexgen.bz/BET/index.m3u8
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="" group-title="Undefined",Bravo
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="Canal17TVNosara.cr" tvg-logo="" group-title="Undefined",Canal 17 TV Nosara
+https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CooTel Nicaragua (1080p)
+http://138.117.4.70:8075/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FX
+https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Lifetime
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LoveFMTV.bz" tvg-logo="" group-title="Undefined",Love Television (480p)
+https://kalends.anl.bz/localchannels/lovetel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="" group-title="Undefined",MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="" group-title="Undefined",Star Channel Central America
+https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1 tvg-id="Televisiete.gt" tvg-logo="" group-title="Undefined",Televisiete (480p) [Not 24/7]
+https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VH1East.us" tvg-logo="" group-title="Undefined",VH1
+https://streamer1.nexgen.bz/VH1/index.m3u8

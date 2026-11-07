@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BloombergTVAsia.hk" tvg-logo="" group-title="Undefined",Bloomberg TV Asia (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.hk" tvg-logo="" group-title="Undefined",Bloomberg TV Asia Live Event (720p)
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HOY Infotainment (1080p) [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HKIBC.hk" tvg-logo="" group-title="Undefined",HOY International Business Channel [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RTHK TV 35 (港台電視35) (1080p) [Geo-blocked]
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RTHK TV 36 (港台電視36) (1080p) [Geo-blocked]
+https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8

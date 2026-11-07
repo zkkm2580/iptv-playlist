@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ACTUNGOLOTVHD.cd" tvg-logo="" group-title="Undefined",ACTU NGOLO TV HD (720p) [Not 24/7]
+https://helga.iptv2022.com/ACTU_NGOLO_TV_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Chabiba TV (360p) [Not 24/7]
+https://endour.net/hls/RUgLAPCbPdF5oPSTX2Hvl/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Congo Planet Télévision Pop (1080p) [Not 24/7]
+https://radio.congoplanet.com/Congo_Planet_TV_Pop.sdp/Congo_Planet_TV_Pop/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSHD.us" tvg-logo="" group-title="Undefined",EBS HD (1080p)
+https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
+#EXTINF:-1 tvg-id="FaithTV.za" tvg-logo="" group-title="Undefined",Faith TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gospel (720p)
+https://origin3.afxp.telemedia.co.za/PremiumFree/gospellife/playlist.m3u8
+#EXTINF:-1 tvg-id="KingSolomonTV.ug" tvg-logo="" group-title="Undefined",KSTV Uganda (480p)
+https://readymedia.moderntv.cloud:8092/distribute/readymedia/KS_TV_stream_dc/5-20-hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",La Sentinelle TV (576p)
+https://tnt-television.com/LA_SENTINELLE/index.m3u8
+#EXTINF:-1 tvg-id="LoveworldSAT.za" tvg-logo="" group-title="Undefined",LoveworldSAT
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Movie Sphere (1080p)
+https://panel.freedomflixtv.org:3048/stream/play.m3u8
+#EXTINF:-1 tvg-id="NowTV.bw" tvg-logo="" group-title="Undefined",Now TV (720p) [Not 24/7]
+https://delivery.upictv.co.bw/NOW-TV-DNL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SABC Lehae [Geo-blocked]
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel3.th" tvg-logo="" group-title="Undefined",Channel 3
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT11Central.th" tvg-logo="" group-title="Undefined",NBT 11 Central (720p)
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="" group-title="Undefined",TV5 HD (720p)
+https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8

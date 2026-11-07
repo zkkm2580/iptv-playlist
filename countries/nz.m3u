@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bounty
+https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CineView
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-logo="" group-title="Undefined",Clubbing TV
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Drybar Comedy
+https://drybar-drybarcomedy-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Love Stories TV (720p)
+https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Magellen TV
+https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mtrspt 1
+https://kravemedia-mtrspt1-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pulse TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Real Crime
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrimebetanz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="RealWild.us" tvg-logo="" group-title="Undefined",Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="SkyOpenPlus1.nz" tvg-logo="" group-title="Undefined",Sky open +1 (576p) [Geo-blocked]
+https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
+#EXTINF:-1 tvg-id="Timeline.us" tvg-logo="" group-title="Undefined",Timeline
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8

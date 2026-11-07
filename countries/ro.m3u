@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Moinesti FM (720p)
+https://video.moinestifm.ro/hls/moinestifm.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0",TVR Moldova (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.tvrplus.ro/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; rv:126.0) Gecko/20100101 Firefox/126.0
+https://tvr-tvrmoldova.cdn.zitec.com/live/tvrmoldova/main.m3u8

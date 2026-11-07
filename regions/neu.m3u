@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AzerbaijanNewsTV.se" tvg-logo="" group-title="Undefined",Azerbaijan News TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gusto TV
+https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kanal7Baltics.lv" tvg-logo="" group-title="Undefined",Kanal 7 Baltics (Latvia) (1080p)
+http://89.254.128.5:22280/duo7_hd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Latvijas Radio 2 (240p)
+https://5a44e5b800a41.streamlock.net/liveVLR2/mp4:LR2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Latvijas Radio 3 Klasika (240p)
+https://5a44e5b800a41.streamlock.net/liveVLR3/mp4:Klasika/playlist.m3u8
+#EXTINF:-1 tvg-id="MissionAsia.se" tvg-logo="" group-title="Undefined",Mission Asia (1080p)
+https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Myzen Fit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Radical Docs
+https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Action
+https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Action (720p)
+https://rakuten-action-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Comedy
+https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Comedy (720p)
+https://rakuten-comedy-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Drama
+https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Drama (720p)
+https://rakuten-drama-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Family
+https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Family (720p)
+https://rakuten-family-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Spotlight
+https://rakuten-spotlight-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Spotlight (720p)
+https://rakuten-spotlight-10-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVDramaMovies.fi" tvg-logo="" group-title="Undefined",Rakuten TV Draama
+https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVTopMovies.fi" tvg-logo="" group-title="Undefined",Rakuten TV Huippuelokuvat
+https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.fi" tvg-logo="" group-title="Undefined",Rakuten TV Komedia
+https://rakuten-comedy-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.fi" tvg-logo="" group-title="Undefined",Rakuten TV Perhe
+https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVRakutenStories.fi" tvg-logo="" group-title="Undefined",Rakuten TV Rakuten Stories
+https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.fi" tvg-logo="" group-title="Undefined",Rakuten TV Toiminta
+https://rakuten-action-12-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",STAR Channel (Finland) (720p)
+https://live-fi.tvkaista.net/star-channel/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Strongman Champions League
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.se" tvg-logo="" group-title="Undefined",The Pet Collective Sweden
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Waterbear
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8

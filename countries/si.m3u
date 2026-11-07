@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HistoryHD.si" tvg-logo="" group-title="Undefined",History Channel (1080p)
+https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true

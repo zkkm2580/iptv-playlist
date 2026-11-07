@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ARYDigitalUSA.us" tvg-logo="" group-title="Undefined",ARY Digital USA (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
+https://6zklx4wryw9b-hls-live.5centscdn.com/arydigitalusa/498f1704b692c3ad4dbfdf5ba5d04536.sdp/playlist.m3u8

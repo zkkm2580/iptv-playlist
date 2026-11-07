@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JawharaFM.jo" tvg-logo="" group-title="Undefined",Jawhara FM (720p) [Not 24/7]
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8

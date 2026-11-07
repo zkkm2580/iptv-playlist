@@ -1,0 +1,153 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae" tvg-logo="" group-title="Documentary;News",Al Arabiya Programs (1080p)
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-logo="" group-title="Documentary",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="" group-title="Culture;Documentary;Entertainment;General;Movies;Music",AlternaTV (720p)
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:-1 tvg-id="ArcadiaTelevision.ro" tvg-logo="" group-title="Documentary;Travel",Arcadia Television (1080p) [Not 24/7]
+https://office.softer.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="" group-title="Documentary;Education",Asharq Discovery (1080p) [Geo-blocked]
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="" group-title="Documentary",Asharq Documentary (1080p)
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AXSTVNOW.us" tvg-logo="" group-title="Documentary",AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="" group-title="Culture;Documentary",BBC Four HD (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="BritBoxMysteries.us" tvg-logo="" group-title="Documentary",BritBox Mysteries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f5d389985a0c0007357304/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2743c9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7df7400e-1d21-4d2c-9534-db1c6d847a42
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="" group-title="Documentary",CCTV9 (1080p)
+http://bl.dchwtq.asia:10000/rtp/239.69.1.104:10262
+#EXTINF:-1 tvg-id="CCTVWeaponTechnology.cn" tvg-logo="" group-title="Documentary",CCTV 兵器科技
+http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV
+#EXTINF:-1 tvg-id="CETV4.cn" tvg-logo="" group-title="Documentary",CETV-4
+http://49.113.179.174:4022/udp/238.125.3.92:5140
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="" group-title="Documentary",CGTN Documentary (1080p) [Not 24/7]
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
+#EXTINF:-1 tvg-id="ClickTVChile.cl" tvg-logo="" group-title="Documentary",Click TV (Coronel) (720p)
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="" group-title="Documentary",Court TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c282e24-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dbd92d33-fc8d-4cda-9f79-5f63b98b071a
+#EXTINF:-1 tvg-id="Crime360.us" tvg-logo="" group-title="Documentary",Crime 360 (720p)
+https://c9747bb6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZ19DcmltZTM2MF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="CSHistory.cz" tvg-logo="" group-title="Documentary",CS History (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_history-720.m3u8
+#EXTINF:-1 tvg-id="CT2.cz" tvg-logo="" group-title="Documentary",ČT 2
+http://88.212.15.27/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Dateline247.us" tvg-logo="" group-title="Documentary",Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1 tvg-id="DDPuducherry.in" tvg-logo="" group-title="Documentary",DD Puducherry (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC01EXbytWkjUdgwA5xXQZiw.m3u8
+#EXTINF:-1 tvg-id="Docurama.us" tvg-logo="" group-title="Documentary",Docurama (1080p)
+https://docurama-plex-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="Dokusat.de" tvg-logo="" group-title="Documentary",Dokusat (1080p)
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 tvg-id="Dvojka.sk" tvg-logo="" group-title="Documentary",Dvojka (960p)
+http://213.81.133.133:8080/dvojka/index.m3u8
+#EXTINF:-1 tvg-id="Ecovision.do" tvg-logo="" group-title="Documentary",Ecovisión (720p)
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="" group-title="Documentary",El Histonauta TV (360p)
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+#EXTINF:-1 tvg-id="ForensicFiles.us" tvg-logo="" group-title="Documentary",Forensic Files
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca68-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=859d292d-044e-4dc8-b889-003fa718d02e
+#EXTINF:-1 tvg-id="Francophonie24.fr" tvg-logo="" group-title="Documentary",Francophonie24 (1080p)
+https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="" group-title="Culture;Documentary" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://webtvstream.bhtelecom.ba/hrt3.m3u8
+#EXTINF:-1 tvg-id="Humanity.fr" tvg-logo="" group-title="Documentary",Humanity Documentaries (720p)
+https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="InkMaster.us" tvg-logo="" group-title="Documentary",Ink Master
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60807fd5db701400078219c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ebedec3d-689a-4150-a2fd-4e2e34eb982c
+#EXTINF:-1 tvg-id="LEspritSorcierTV.fr" tvg-logo="" group-title="Documentary;Education",L'Esprit Sorcier TV (1080p)
+https://194270.global.ssl.fastly.net/63b43410861d94a9eee067fb/live_947330308dd911edb85c8181cb9b11a8/index.m3u8
+#EXTINF:-1 tvg-id="LawCrime.us" tvg-logo="" group-title="Documentary",Law & Crime (720p)
+https://lawcrime.s.llnwi.net/h72/lawcrimech2/playlist_scte.m3u8
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="" group-title="Documentary",N24 Doku
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=39199e43-689e-4f83-9f74-b89605373bf0
+#EXTINF:-1 tvg-id="NationalGeographic.fi" tvg-logo="" group-title="Documentary",National Geographic (Finland) (720p)
+https://live-fi.tvkaista.net/national-geographic/live.m3u8?src=videojs
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="" group-title="Documentary",National Geographic Abu Dhabi (1080p) [Geo-blocked]
+https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="" group-title="Documentary",National Geographic Wild
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
+#EXTINF:-1 tvg-id="NatureTV.br" tvg-logo="" group-title="Documentary;Science",Nature TV (720p)
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="" group-title="Documentary;Science",Nova TV Agrotour (360p)
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnimals.de" tvg-logo="" group-title="Documentary",Pluto TV Animals
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5268-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4297955-3ff8-4299-b8e4-ca974cec3c7a
+#EXTINF:-1 tvg-id="PlutoTVCelebrity.us" tvg-logo="" group-title="Documentary",Pluto TV Celebrity
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8bf1472907815f66a866dd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac637-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4865e28b-19f4-406d-a251-269b9bf2d477
+#EXTINF:-1 tvg-id="PlutoTVDocumentaries.us" tvg-logo="" group-title="Documentary",Pluto TV Documentaries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c20f2b68-5b90-43f4-9269-05ca1653242d
+#EXTINF:-1 tvg-id="PlutoTVExplore.de" tvg-logo="" group-title="Documentary",Pluto TV Explore
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ad9b8551b95267e225e59c1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7978-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48b4a91c-514f-44ce-b5b2-0f355a642d0e
+#EXTINF:-1 tvg-id="PlutoTVFood.de" tvg-logo="" group-title="Cooking;Documentary",Pluto TV Food
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dc280c9aa218c0009724b4b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae7979-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6afece0b-4e3f-4de4-935d-3288b6200e01
+#EXTINF:-1 tvg-id="PlutoTVHistory.us" tvg-logo="" group-title="Documentary",Pluto TV History
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed48-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b0c9a3d-9786-4dee-8eea-1dfcbea2ee1b
+#EXTINF:-1 tvg-id="PlutoTVMystery.de" tvg-logo="" group-title="Documentary",Pluto TV Mystery
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617aad99b68ef100072608cd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec792-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2b2bcb00-9a00-402e-b731-873dc95db9fc
+#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-logo="" group-title="Documentary;Outdoor",Pluto TV Naturaleza (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVNature.de" tvg-logo="" group-title="Documentary",Pluto TV Nature
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5be1c3f9851dd5632e2c91b2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aec793-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=dd5077d7-0ac1-491c-87dc-536ab13c0313
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us" tvg-logo="" group-title="Documentary",Pluto TV Paranormal
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1455-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a6d0c5d3-d3a3-4e4b-acd3-5b277ebb8723
+#EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-logo="" group-title="Documentary;Science",Pluto TV Science
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b61-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31adb772-adc8-4202-ad66-25e3c1a49df7
+#EXTINF:-1 tvg-id="PlutoTVSpace.de" tvg-logo="" group-title="Documentary",Pluto TV Space
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61409f8d6feb30000766b675/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aeeea6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aee0c343-6689-49c1-9090-319522e3c837
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us" tvg-logo="" group-title="Documentary;Series",Pluto TV True Crime
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6270-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2e2e43d4-4547-47dd-9325-2c583c9314b2
+#EXTINF:-1 tvg-id="RealLifeonVerizon.us" tvg-logo="" group-title="Documentary",Real Life on Verizon
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efb61e2a876670007ac2233/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8980-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9da9197d-dc8b-4809-9fce-4852e615a062
+#EXTINF:-1 tvg-id="RealStories.uk" tvg-logo="" group-title="Documentary",Real Stories
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Reelz.us" tvg-logo="" group-title="Documentary",Reelz
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
+#EXTINF:-1 tvg-id="ReelzChannelXUMO.us" tvg-logo="" group-title="Documentary",Reelz Channel (XUMO) (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="RLPROTV.cd" tvg-logo="" group-title="Documentary",RL PRO TV (480p) [Not 24/7]
+https://rlprotv.vedge.infomaniak.com/livecast/ik:rlprotv/manifest.m3u8
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="" group-title="Documentary",Safari TV (480p) [Not 24/7]
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="SpikePlutoTV.us" tvg-logo="" group-title="Documentary",Spike Pluto TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b
+#EXTINF:-1 tvg-id="TeenMom.us" tvg-logo="" group-title="Documentary",Teen Mom
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6127e12ed140e900077e7b6f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bfeb3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=773b4ab9-534b-435a-904e-6819ef8dfb5e
+#EXTINF:-1 tvg-id="TheGuardian.uk" tvg-logo="" group-title="Documentary;News",The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TheNest.us" tvg-logo="" group-title="Documentary;Entertainment",The Nest
+https://content.uplynk.com/channel/b468fd41b60840579668c42c096a4103.m3u8
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="" group-title="Documentary",TRT Belgesel (720p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TrustTV.ng" tvg-logo="" group-title="Documentary;Entertainment;News",Trust TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8
+#EXTINF:-1 tvg-id="vijuExplore.ru" tvg-logo="" group-title="Documentary" user-agent="ExoPlayer2/2.37",viju Explore
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-logo="" group-title="Documentary" user-agent="ExoPlayer2/2.37",viju History
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/viasathistory/playlist.m3u8
+#EXTINF:-1 tvg-id="vijuNature.ru" tvg-logo="" group-title="Documentary" user-agent="ExoPlayer2/2.37",viju Nature
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+#EXTINF:-1 tvg-id="VoyagerDocumentaries.us" tvg-logo="" group-title="Documentary",Voyager Documentaries
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1024-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e7ab6188-0ea8-4038-b8e2-2865d3dcabd9
+#EXTINF:-1 tvg-id="XtremaAnimal.ar" tvg-logo="" group-title="Documentary;Science",Xtrema Animal
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1504
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 tvg-id="Arsenal.ru" tvg-logo="" group-title="Documentary" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Арсенал (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:-1 tvg-id="Istoriya.ru" tvg-logo="" group-title="Documentary",История
+http://31.148.48.15/Istoriya/index.m3u8
+#EXTINF:-1 tvg-id="Nauka.ru" tvg-logo="" group-title="Documentary",Наука 2.0
+http://stream01.vnet.am/Nauka/mono.m3u8
+#EXTINF:-1 tvg-id="TopSecret.ru" tvg-logo="" group-title="Documentary" user-agent="ExoPlayer2/2.37",Совершенно Секретно
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8

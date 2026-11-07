@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AzerbaijanNewsTV.se" tvg-logo="" group-title="Undefined",Azerbaijan News TV (720p) [Not 24/7]
+https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gusto TV
+https://gustotv-gustotv-2-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MissionAsia.se" tvg-logo="" group-title="Undefined",Mission Asia (1080p)
+https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Myzen Fit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Radical Docs
+https://quintus-radicaldocs-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Action
+https://rakuten-action-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Comedy
+https://rakuten-comedy-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Drama
+https://rakuten-drama-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Family
+https://rakuten-family-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Spotlight
+https://rakuten-spotlight-9-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Strongman Champions League
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.se" tvg-logo="" group-title="Undefined",The Pet Collective Sweden
+https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Waterbear
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungse/playlist.m3u8

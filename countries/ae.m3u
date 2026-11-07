@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="" group-title="Undefined",Abu Dhabi Aloula (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="" group-title="Undefined",MBC Iraq (1080p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Undefined",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="" group-title="Undefined",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAflam.in" tvg-logo="" group-title="Undefined",Zee Aflam (720p) [Geo-blocked]
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAlwan.in" tvg-logo="" group-title="Undefined",Zee Alwan (720p) [Geo-blocked]
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8

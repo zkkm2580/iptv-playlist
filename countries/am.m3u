@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",5 ԹԻՎԻ ՊԼՅՈՒՍ (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s9/index.m3u8
+#EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",BBC World News (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Deutsche Welle (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Viju Sport (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:-1 tvg-id="KinopremyeraHD.ru" tvg-logo="" group-title="Undefined",Кинопремьера HD
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-logo="" group-title="Undefined",Кухня ТВ HD
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԼԱՎՖՀԱՔ (480p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s48/index.m3u8

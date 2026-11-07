@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="EmTV.tr" tvg-logo="" group-title="Undefined",Em TV (486p)
+https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KANAL 58 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KANAL 58 (1080p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kanal Antalya (720p)
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="" group-title="Undefined",NOW TV
+http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ogün TV (360p)
+https://s01.vpis.io/ogun/ogun.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="" group-title="Undefined",Syria TV (1080p)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="" group-title="Undefined",Teve2 (1080p)
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Torba TV (720p) [Not 24/7]
+https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr" tvg-logo="" group-title="Undefined",TRT EBA Ortaokul (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TV8International.tr" tvg-logo="" group-title="Undefined",TV8 International (720p)
+http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8
+#EXTINF:-1 tvg-id="TVEm.tr" tvg-logo="" group-title="Undefined",TV Em (486p)
+https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8

@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" tvg-logo="" group-title="Outdoor",30A Darcizzle Offshore (720p)
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 tvg-id="AgroTV.bg" tvg-logo="" group-title="Outdoor",Agro TV (480p)
+https://restr2.bgtv.bg/agro/hls/agro.m3u8
+#EXTINF:-1 tvg-id="AgroTV.tr" tvg-logo="" group-title="Education;Outdoor",Agro TV (1080p)
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroTV.pe" tvg-logo="" group-title="Outdoor",Agro TV (Apurimac) (720p) [Not 24/7]
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:-1 tvg-id="AgroTVAzerbaijan.az" tvg-logo="" group-title="Outdoor",Agro TV Azerbaijan (1080p) [Not 24/7]
+https://yayin30.haber100.com/live/agrotv2/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-logo="" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-logo="" group-title="Outdoor",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="AgroTV.ro" tvg-logo="" group-title="Outdoor",AgroTV (404p) [Not 24/7]
+https://stream1.1616.ro:1945/agro/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-logo="" group-title="Outdoor",AKC TV
+https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-logo="" group-title="Outdoor",AKC TV Meet The Breeds
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-logo="" group-title="Outdoor",AKC TV Puppies 24/7
+https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de" tvg-logo="" group-title="Outdoor",ANIMAL KINGDOM (720p)
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-id="Beity.sa" tvg-logo="" group-title="Outdoor",Beity
+http://82.212.74.2:8000/live/7312.m3u8
+#EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="" group-title="Outdoor",Canal do Criador (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="" group-title="Outdoor",Canal Rural (720p)
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-logo="" group-title="Outdoor",Canal Rural (1080p)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="" group-title="Education;Outdoor",CCTV17 (1080p)
+http://bl.dchwtq.asia:10000/rtp/239.69.1.152:10548
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-logo="" group-title="Outdoor",Chacra TV (480p) [Not 24/7]
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CharruaTelevision.uy" tvg-logo="" group-title="Outdoor",Charrúa Televisión (720p)
+https://stmv.video.gmpro.top/tvcharrua/tvcharrua/playlist.m3u8
+#EXTINF:-1 tvg-id="ChiveTV.us" tvg-logo="" group-title="Outdoor",Chive TV (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadMagica.ar" tvg-logo="" group-title="Outdoor",Ciudad Mágica (720p) [Not 24/7]
+https://tv.initium.net.ar:3235/live/grupocitylive.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-logo="" group-title="Education;Outdoor",DD Kisan (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCnDfmcUyhgJp6xC1LmBLfUg.m3u8
+#EXTINF:-1 tvg-id="DuckHuntingTV.us" tvg-logo="" group-title="Outdoor",Duck Hunting TV
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
+#EXTINF:-1 tvg-id="earthTV.de" tvg-logo="" group-title="Education;Outdoor;Relax",earthTV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+#EXTINF:-1 tvg-id="HamroKisanTV.np" tvg-logo="" group-title="Outdoor",Hamro Kisan TV (1080p) [Not 24/7]
+https://realtvlive.servep2p.com/livetv/KSNTV/playlist.m3u8
+#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="" group-title="Outdoor",Horse and Country Free
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="HuntChannel.us" tvg-logo="" group-title="Outdoor",Hunt Channel (1080p)
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 tvg-id="InTrouble.nl" tvg-logo="" group-title="Auto;Outdoor;Sports",Introuble
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introublenz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-logo="" group-title="Outdoor",Italian Fishing TV
+https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="" group-title="Outdoor",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-logo="" group-title="Outdoor",Outdoor America (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-logo="" group-title="Outdoor",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us" tvg-logo="" group-title="Outdoor",Outside TV (1080p)
+https://outsidetv-roku-us.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTVPlus.us" tvg-logo="" group-title="Outdoor",Outside TV Plus (1080p)
+https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
+#EXTINF:-1 tvg-id="ParyawaranTV.np" tvg-logo="" group-title="Education;Outdoor",Paryawaran TV (1080p)
+https://webtv-stream.nettv.com.np/broadcaster/Paryawaran.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-logo="" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-logo="" group-title="Outdoor;Travel",Peer TV South Tyrol (1280p)
+https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-logo="" group-title="Outdoor;Travel",Peer TV Südtirol (1080p)
+https://iptv.peer.biz/live/peertv.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBackcountry.us" tvg-logo="" group-title="Outdoor",Pluto TV Backcountry
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac634-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bbab6d6-61db-4795-bbab-9325b47792ec
+#EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-logo="" group-title="Documentary;Outdoor",Pluto TV Naturaleza (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d10ce06a9665fe54bf74a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=962&terminate=false&userId=
+#EXTINF:-1 tvg-id="PursuitUP.us" tvg-logo="" group-title="Outdoor",Pursuit UP (720p)
+https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="" group-title="Outdoor;Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="SihaiFishingChannel.cn" tvg-logo="" group-title="Outdoor",Sihai Fishing Channel
+http://49.113.179.174:4022/udp/238.125.2.172:5140
+#EXTINF:-1 tvg-id="SpikeOutdoors.us" tvg-logo="" group-title="Outdoor",Spike Outdoors
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb097-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba96820a-ef7c-474b-9484-5944ae6322c0
+#EXTINF:-1 tvg-id="SwamijiTVAmerican.at" tvg-logo="" group-title="Outdoor",Swamiji TV American (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAustralian.at" tvg-logo="" group-title="Outdoor",Swamiji TV Australian (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVEuropean.at" tvg-logo="" group-title="Outdoor",Swamiji TV European (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="" group-title="Outdoor",Terra Viva (720p) [Not 24/7]
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1 tvg-id="TheBoatShow.us" tvg-logo="" group-title="Outdoor",The Boat Show (720p)
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/14c063cc-8be5-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 tvg-id="Poehali.ru" tvg-logo="" group-title="Entertainment;Outdoor",Поехали!
+http://31.148.48.15/Poehali/index.m3u8

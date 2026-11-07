@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="" group-title="Undefined",Chaco TV (720p) [Not 24/7]
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="" group-title="Undefined",Cosmos TV (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="" group-title="Undefined",DirecTV Sports (480p) [Geo-blocked]
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorLatinAmerica.ar" tvg-logo="" group-title="Undefined",Disney Junior Latin America (480p)
+http://168.181.122.234:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="MilennioTV.ar" tvg-logo="" group-title="Undefined",Milennio TV (720p)
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="" group-title="Undefined",TV Publica (1080p) [Not 24/7]
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-id="UNAMTransmedia.ar" tvg-logo="" group-title="Undefined",UNAM Transmedia (1080p)
+http://192.100.186.53:8090/hls/live.stream.m3u8

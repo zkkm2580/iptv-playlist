@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1KZNTV.za" tvg-logo="" group-title="Entertainment;Family;General",1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AMGTV.us" tvg-logo="" group-title="Family",AMG TV (1080p)
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 tvg-id="AVAFamily.ir" tvg-logo="" group-title="Family",AVA Family (720p) [Not 24/7]
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="" group-title="Family",Canal IPe (1080p)
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+#EXTINF:-1 tvg-id="ChurchofUgandaFamilyTelevision.ug" tvg-logo="" group-title="Family;Religious",COU Family Television (720p)
+https://media.streambrothers.com:19360/8028/8028.m3u8
+#EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="" group-title="Family;General",CWB TV (720p)
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DoveChannel.us" tvg-logo="" group-title="Family",Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaGames.us" tvg-logo="" group-title="Entertainment;Family",Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FamiliChannel.co" tvg-logo="" group-title="Family",Famili Channel (720p)
+https://cp.panelchs.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="FamilyTime.us" tvg-logo="" group-title="Family",Family Time (1080p)
+https://amg09501-questar-amg09501c3-stirr-us-3096.playouts.now.amagi.tv/amg09501/AMG09501C3/segmented_playlist/0/35-89-3096.m3u8
+#EXTINF:-1 tvg-id="FilmRiseFamily.us" tvg-logo="" group-title="Family",FilmRise Family (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="GreatCommissionTV.ph" tvg-logo="" group-title="Family",Great Commission TV (468p)
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:-1 tvg-id="JOJFamily.sk" tvg-logo="" group-title="Family",JOJ Family (720p)
+#EXTVLCOPT:http-referrer=https://media.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/family-720.m3u8
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="" group-title="Family",MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="" group-title="Family",My Family Channel (1080p) [Geo-blocked]
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+#EXTINF:-1 tvg-id="NET.id" tvg-logo="" group-title="Family",NET. [Not 24/7]
+https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
+#EXTINF:-1 tvg-id="PositivTV.us" tvg-logo="" group-title="Family",Positiv (720p)
+https://tbn-jw.cdn.vustreams.com/live/positivtv/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Pro100TV.ru" tvg-logo="" group-title="Animation;Classic;Entertainment;Family;Movies",Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-logo="" group-title="Family;Movies",Rakuten Family
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealFamilies.us" tvg-logo="" group-title="Family",Real Families (1080p)
+https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RealFamilies.au" tvg-logo="" group-title="Family",Real Families (Australia) (720p)
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RiC.de" tvg-logo="" group-title="Family;Kids",RiC (1080p) [Not 24/7] [Geo-blocked]
+https://ythls.armelin.one/channel/UCobxrBytMqM7pWZslb_UEHA.m3u8
+#EXTINF:-1 tvg-id="SowetoTV.za" tvg-logo="" group-title="Entertainment;Family",Soweto TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperscreenTV.ng" tvg-logo="" group-title="Culture;Family",Superscreen TV (412p)
+https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 tvg-id="TalangaTVCanal39.hn" tvg-logo="" group-title="Family",Talanga TV Canal 39 (480p) [Not 24/7]
+https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
+#EXTINF:-1 tvg-id="TelaViva.br" tvg-logo="" group-title="Family;Movies;Series",Tela Viva (360p)
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenovisa43.do" tvg-logo="" group-title="Family;General",Telenovisa 43 (720p)
+https://rdn.essastream.com:3230/live/telenovisa43live.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us" tvg-logo="" group-title="Family",The Pet Collective
+https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TshwaneTV.za" tvg-logo="" group-title="Entertainment;Family;General",Tshwane TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFamilia.ve" tvg-logo="" group-title="Family",TV Familia (720p)
+https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1 tvg-id="TVFamille.mq" tvg-logo="" group-title="Family;Religious",TV Famille (720p)
+https://streamer1.streamhost.org/salive/GMItvfh/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSFamilyChannel.us" tvg-logo="" group-title="Family",TVS Family Channel (360p)
+https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 tvg-id="XtremaFamily.ar" tvg-logo="" group-title="Family;Movies",Xtrema Cine Family (274p)
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-logo="" group-title="Family",СТС
+http://s18209.cdn.ngenix.net/hls/CH_R02_STS/playlist.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru" tvg-logo="" group-title="Family",СТС Love
+http://31.148.48.15/STS_Love/index.m3u8
+#EXTINF:-1 tvg-id="SichuanTVWomenandChildrenChannel.cn" tvg-logo="" group-title="Family",四川妇女儿童 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-logo="" group-title="Undefined",Bloomberg TV+
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mojitv
+https://odmedia-mojitv-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MYZen Fit [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-samsungen-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="TVWest.nl" tvg-logo="" group-title="Undefined",Omroep West (1080p) [Not 24/7]
+https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Radical Docs
+https://quintus-radicaldocs-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Action
+https://rakuten-action-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Comedy
+https://rakuten-comedy-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Drama
+https://rakuten-drama-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Family
+https://rakuten-family-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Stories
+https://rakuten-spotlight-8-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rotterdam Podium TV (480p)
+http://ms10.mx-cd.net/tv/141-573565/Podium_Rotterdam.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRijnmondExtra.nl" tvg-logo="" group-title="Undefined",RTV Rijnmond Extra (1080p)
+http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Waterbear
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wicked Tuna
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunanl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.uk" tvg-logo="" group-title="Undefined",WildEarth [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zed TV
+http://190.2.148.141:8080/bar7657/index.m3u8

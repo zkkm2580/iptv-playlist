@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hmong TV Network (720p)
+https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KienGiangTV1.vn" tvg-logo="" group-title="Undefined",KienGiangTV1 (1080p) [Geo-blocked]
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-id="KienGiangTV.vn" tvg-logo="" group-title="Undefined",KienGiangTV (1080p) [Geo-blocked]
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 tvg-id="LaoHeritageOrganization.la" tvg-logo="" group-title="Undefined",Lao Heritage Foundation TV (720p) [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KDOCDT7.us" tvg-logo="" group-title="Undefined",Little Saigon TV (720p)
+https://media.streambrothers.com:1936/8228/8228/playlist.m3u8

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.fr" tvg-logo="" group-title="Undefined",Rakuten Family
+https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTCTeleLiege.be" tvg-logo="" group-title="Undefined",RTC Télé Liège [Geo-blocked]
+https://tvlocales-live.freecaster.com/live/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
+#EXTINF:-1 tvg-id="TVCom.be" tvg-logo="" group-title="Undefined",TVCom [Geo-blocked]
+https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8

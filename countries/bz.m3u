@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="" group-title="Undefined",AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 tvg-id="BETEast.us" tvg-logo="" group-title="Undefined",BET
+https://streamer1.nexgen.bz/BET/index.m3u8
+#EXTINF:-1 tvg-id="BravoEast.us" tvg-logo="" group-title="Undefined",Bravo
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",FX
+https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",History
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Lifetime
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LoveFMTV.bz" tvg-logo="" group-title="Undefined",Love Television (480p)
+https://kalends.anl.bz/localchannels/lovetel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="" group-title="Undefined",MTV
+https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 tvg-id="StarChannelCentralAmerica.us" tvg-logo="" group-title="Undefined",Star Channel Central America
+https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1 tvg-id="VH1East.us" tvg-logo="" group-title="Undefined",VH1
+https://streamer1.nexgen.bz/VH1/index.m3u8

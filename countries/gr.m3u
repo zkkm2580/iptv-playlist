@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CorfuTV.gr" tvg-logo="" group-title="Undefined",Corfu TV (576p) [Not 24/7]
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Greek TV London (720p) [Not 24/7]
+https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Greek TV London (720p) [Not 24/7]
+https://vdo3.alphaserver.gr:3466/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hellenic TV (720p) [Not 24/7]
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MAD Greekz (360p)
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicTV.gr" tvg-logo="" group-title="Undefined",Magic TV (480p)
+https://itv.streams.ovh/magictv/magictv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Εγνατία Τηλεόραση (576p)
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8

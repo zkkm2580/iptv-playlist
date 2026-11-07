@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",247 Box
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Aio Eshareh [Geo-blocked]
+https://live.aionet.ir/hls/eshareh/eshareh.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Aio Jahan Bin [Geo-blocked]
+https://live.aionet.ir/hls/jahanb/jahanb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Aio Mes Rafsanjan [Geo-blocked]
+https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hasti TV (1080p) [Not 24/7]
+https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Health Media TV (720p)
+https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",High Vision
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",High Vision (1080p) [Not 24/7]
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="" group-title="Undefined",IRIB5 (540p)
+https://live.aionet.ir/hls/tv5/tv5.m3u8
+#EXTINF:-1 tvg-id="OmideIranTV.ir" tvg-logo="" group-title="Undefined",Omide Iran (720p) [Not 24/7]
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ParsTV.ir" tvg-logo="" group-title="Undefined",Pars
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.ir" tvg-logo="" group-title="Undefined",Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PBCTapeshTV.ir" tvg-logo="" group-title="Undefined",Tapesh Iran
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8

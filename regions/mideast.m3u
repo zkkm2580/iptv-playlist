@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",247 Box
+https://hls.247box.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" tvg-logo="" group-title="Undefined",Abu Dhabi Aloula (1080p)
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Aio Eshareh [Geo-blocked]
+https://live.aionet.ir/hls/eshareh/eshareh.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Aio Jahan Bin [Geo-blocked]
+https://live.aionet.ir/hls/jahanb/jahanb.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Aio Mes Rafsanjan [Geo-blocked]
+https://live.aionet.ir/hls/mesrafsanjan/mesrafsanjan.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Al Anwar 2
+http://63b03f7689049.streamlock.net:1935/live/13/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Al Janoub TV
+http://63b03f7689049.streamlock.net:1935/live/18/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="" group-title="Undefined",Al Jazeera English
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alqanat9 TV (1080p)
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Althaqalayn TV
+http://63b03f7689049.streamlock.net:1935/live/16/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Althaqalayn TV
+http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Dua Channel (720p)
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Elsharq TV (1080p) [Not 24/7]
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="EmTV.tr" tvg-logo="" group-title="Undefined",Em TV (486p)
+https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hasti TV (1080p) [Not 24/7]
+https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Health Media TV (720p)
+https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="HebronTV.ps" tvg-logo="" group-title="Undefined",Hebron TV (432p)
+https://account20.livebox.co.in/charleshls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",High Vision
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",High Vision (1080p) [Not 24/7]
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Hudhud TV
+http://63b03f7689049.streamlock.net:1935/live/17/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" tvg-logo="" group-title="Undefined",IRIB5 (540p)
+https://live.aionet.ir/hls/tv5/tv5.m3u8
+#EXTINF:-1 tvg-id="JawharaFM.jo" tvg-logo="" group-title="Undefined",Jawhara FM (720p) [Not 24/7]
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KANAL 58 (720p) [Not 24/7]
+https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",KANAL 58 (1080p) [Not 24/7]
+https://edge1.socialsmart.tv/kanal58/bant1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Kanal Antalya (720p)
+https://cdn-kanaltvo.yayin.com.tr/kanaltvo/kanaltvo/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCIraq.ae" tvg-logo="" group-title="Undefined",MBC Iraq (1080p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="MBCPlusDrama.ae" tvg-logo="" group-title="Undefined",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="MekameleenTV.eg" tvg-logo="" group-title="Undefined",Mekameleen TV (1080p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Musayof (Israel) (240p) [Not 24/7]
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr" tvg-logo="" group-title="Undefined",NOW TV
+http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ogün TV (360p)
+https://s01.vpis.io/ogun/ogun.m3u8
+#EXTINF:-1 tvg-id="OmideIranTV.ir" tvg-logo="" group-title="Undefined",Omide Iran (720p) [Not 24/7]
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ParsTV.ir" tvg-logo="" group-title="Undefined",Pars
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.ir" tvg-logo="" group-title="Undefined",Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="QuranRadio.sa" tvg-logo="" group-title="Undefined",Quran Radio (720p)
+https://edge.taghtia.com/sa/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Safeer TV (1080p)
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="" group-title="Undefined",SSC 1 (720p)
+https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1 tvg-id="SyriaTV.tr" tvg-logo="" group-title="Undefined",Syria TV (1080p)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="PBCTapeshTV.ir" tvg-logo="" group-title="Undefined",Tapesh Iran
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="" group-title="Undefined",Teve2 (1080p)
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Torba TV (720p) [Not 24/7]
+https://59cba4d34b678.streamlock.net/canlitv/torbatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTEBAOrtaokul.tr" tvg-logo="" group-title="Undefined",TRT EBA Ortaokul (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TV8International.tr" tvg-logo="" group-title="Undefined",TV8 International (720p)
+http://bozztv.com/gin-dvrfl05/gin-tv8int/index.m3u8
+#EXTINF:-1 tvg-id="TVEm.tr" tvg-logo="" group-title="Undefined",TV Em (486p)
+https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="" group-title="Undefined",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 tvg-id="ZarokTV.iq" tvg-logo="" group-title="Undefined",Zarok TV Sorani (720p)
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ZeeAflam.in" tvg-logo="" group-title="Undefined",Zee Aflam (720p) [Geo-blocked]
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAlwan.in" tvg-logo="" group-title="Undefined",Zee Alwan (720p) [Geo-blocked]
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8

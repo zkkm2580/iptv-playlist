@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="324.es" tvg-logo="" group-title="Undefined",3/24 (1080p)
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="" group-title="Undefined",24 Horas Internacional [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="" group-title="Undefined",AMC (1080p) [Geo-blocked]
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:87_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="BBCDrama.es" tvg-logo="" group-title="Undefined",BBC Drama (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="CCMAExclusiu1.es" tvg-logo="" group-title="Undefined",CCMA Exclusiu 1 (1080p) [Not 24/7]
+https://directes-tv-cat.ccma.cat/live-origin/oca1-hls/master.m3u8
+#EXTINF:-1 tvg-id="CCMAExclusiu2.es" tvg-logo="" group-title="Undefined",CCMA Exclusiu 2 (1080p) [Not 24/7]
+https://directes-tv-cat.ccma.cat/live-origin/oca2-hls/master.m3u8
+#EXTINF:-1 tvg-id="CCMAExclusiu3.es" tvg-logo="" group-title="Undefined",CCMA Exclusiu 3 (1080p) [Not 24/7]
+https://directes-tv-cat.ccma.cat/live-origin/oca3-hls/master.m3u8
+#EXTINF:-1 tvg-id="GOLPLAY.es" tvg-logo="" group-title="Undefined",GOL PLAY (432p) [Geo-blocked]
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",iHola Play
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="" group-title="Undefined",NatureTime
+https://shls-live-ak.akamaized.net/out/v1/b06a89a463764d3688cda337d40dc5bf/index.m3u8
+#EXTINF:-1 tvg-id="Anaylos7.es" tvg-logo="" group-title="Undefined",Pluto TV Ana y los 7 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAnimakids.es" tvg-logo="" group-title="Undefined",Pluto TV Animakids (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAnimales.es" tvg-logo="" group-title="Undefined",Pluto TV Animales (288p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineAccion.es" tvg-logo="" group-title="Undefined",Pluto TV Cine Acción (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVCineClasico.es" tvg-logo="" group-title="Undefined",Pluto TV Cine Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCineEstelar.es" tvg-logo="" group-title="Undefined",Pluto TV Cine Estelar (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVCocina.es" tvg-logo="" group-title="Undefined",Pluto TV Cocina (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedia (Made in Spain) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVKids.es" tvg-logo="" group-title="Undefined",Pluto TV Kids (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:-1 tvg-id="MTVCatfishTVShow.es" tvg-logo="" group-title="Undefined",Pluto TV MTV Catfish (Spain) (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1ab3c7778230000735cf41&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=305&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVMTVMusicMadeinSpain.us" tvg-logo="" group-title="Undefined",Pluto TV MTV Music Made in Spain (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="MTVOriginals.es" tvg-logo="" group-title="Undefined",Pluto TV MTV Originals (Spain) (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aadf373bed3000794d1d7&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=300&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVTeenStars.es" tvg-logo="" group-title="Undefined",Pluto TV Teen Stars (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60016a60a8e3520008e0d331/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVTelenovelas.es" tvg-logo="" group-title="Undefined",Pluto TV Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVTheWalkingDeadESP.us" tvg-logo="" group-title="Undefined",Pluto TV The Walking Dead ESP (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVToonsClasico.es" tvg-logo="" group-title="Undefined",Pluto TV Toons Clásico (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Top Free Spain (720p)
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Shows Spain (720p)
+https://rakuten-tvshows-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.es" tvg-logo="" group-title="Undefined",The Pet Collective
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tv Famypanc HD (1080p)
+https://vidistream.ddns.net/hls/espana.play.m3u8
+#EXTINF:-1 tvg-id="TVEInternacionalEuropeAsia.es" tvg-logo="" group-title="Undefined",TVE Internacional Europe-Asia [Geo-blocked]
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
+#EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="" group-title="Undefined",TVE Star HD (1080p)
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8

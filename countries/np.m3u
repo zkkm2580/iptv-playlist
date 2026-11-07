@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZeeNepal.np" tvg-logo="" group-title="Undefined",Zee Nepal (720p)
+http://43.245.85.211:5563/live/zeenepaltv/playlist.m3u8

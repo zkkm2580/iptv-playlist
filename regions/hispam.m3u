@@ -1,0 +1,299 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="XHSDDTDT.mx" tvg-logo="" group-title="Undefined",15tv Sabinas (XHSDD-TDT) (360p)
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Alcarrizos TV (720p)
+https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",ASMAR TV
+https://ss5.domint.net:3034/astv_str/asmartv/playlist.m3u8
+#EXTINF:-1 tvg-id="ATBLaPaz.bo" tvg-logo="" group-title="Undefined",ATB La Paz (614p) [Not 24/7]
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 tvg-id="ATBSantaCruz.bo" tvg-logo="" group-title="Undefined",ATB Santa Cruz (720p) [Not 24/7]
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="ATV.co" tvg-logo="" group-title="Undefined",ATV (360p) [Not 24/7]
+https://movil.ejeserver.com/live/verteve.m3u8
+#EXTINF:-1 tvg-id="AXN.cl" tvg-logo="" group-title="Undefined",AXN (1080p)
+https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="B15.mx" tvg-logo="" group-title="Undefined",B15 (1080p)
+https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Boca Chica TV
+https://vdo1.streamgato.us:3977/live/lavozsincensuratvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cacique TV
+https://ed16ov.live.opencaster.com/rcmEBEGmbxHd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canal 6 (720p)
+https://5790d294af2dc.streamlock.net/canal6/canal6/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9.co" tvg-logo="" group-title="Undefined",Canal 9 Cosespu (720p)
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canal 17 (720p)
+https://protvradiostream.com:1936/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal17TVNosara.cr" tvg-logo="" group-title="Undefined",Canal 17 TV Nosara
+https://acceso.radiosportstv.online:3430/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Canal21.cl" tvg-logo="" group-title="Undefined",Canal 21 (720p) [Not 24/7]
+http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canal America (720p)
+http://newyorkstream.ddns.net:5854/enlacecanalamerica/encoderRD/playlist.m3u8
+#EXTINF:-1 tvg-id="XHSPRTDT1.mx" tvg-logo="" group-title="Undefined",Canal Catorce
+#EXTVLCOPT:http-referrer=https://www.canalcatorce.tv/
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalLatino.cl" tvg-logo="" group-title="Undefined",Canal Latino (CL54) (360p)
+https://live.chileservidores.com:8081/latina/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Canalda TV
+https://canalda.rgradio.net:3084/live/canaldalive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cangrejo TV (720p)
+https://ss3.domint.net:3146/ctv_str/cangrejotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Caracol Noticias Ahora (720p)
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+#EXTINF:-1 tvg-id="Ceacom.bo" tvg-logo="" group-title="Undefined",Ceacom [Not 24/7]
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cenovision TV (720p)
+https://5790d294af2dc.streamlock.net/cenovision/hdmi/playlist.m3u8
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="" group-title="Undefined",Chaco TV (720p) [Not 24/7]
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Codigo TV
+https://vdo2.streamgato.us:3313/live/codigotvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CooTel Nicaragua (1080p)
+http://138.117.4.70:8075/channel9/playlist.m3u8
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="" group-title="Undefined",Cosmos TV (720p)
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Cotui TV (720p)
+https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
+#EXTINF:-1 tvg-id="WELUDT1.pr" tvg-logo="" group-title="Undefined",CTNi (Christian Television Network International) (480p) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV.co" tvg-logo="" group-title="Undefined",CTV Barranquilla (1080p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Delta TV
+https://rdn.essastream.com:3949/live/deltatv50live.m3u8
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="" group-title="Undefined",DirecTV Sports (480p) [Geo-blocked]
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorLatinAmerica.ar" tvg-logo="" group-title="Undefined",Disney Junior Latin America (480p)
+http://168.181.122.234:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",EDU Mas TV
+https://vdopanel.jlahozconsulting.com:3720/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="El75TV.do" tvg-logo="" group-title="Undefined",El 75 (720p)
+https://television.essastream.com:3502/live/bebetotelevisionlive.m3u8
+#EXTINF:-1 tvg-id="ElNu9ve.mx" tvg-logo="" group-title="Undefined",El NU9VE (1080p)
+https://channel06.akamaized.net/hls/live/2033784/event01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Evolucion TV
+https://cdnhd.iblups.com/hls/SJWxXEWwUd.m3u8
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="" group-title="Undefined",Fanpop TV
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Global Social TV (720p)
+https://ss9.domint.net:3042/gstv_str/globalsocialtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Gogo Play TV (720p)
+https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-logo="" group-title="Undefined",Golden Edge Panregional (576p)
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Guaymate [Not 24/7]
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ideal TV
+https://cloud5.idealtv.net/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Infinito TV
+https://vdo1.streamgato.us:3057/live/infinitotvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Jimani TV (720p)
+https://cloud2.streaminglivehd.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",La Hora TV
+https://ss5.domint.net:3056/lhtv_str/lahoratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",La Ruta TV
+https://streamunoapp.com:3983/live/larutatvlive.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="" group-title="Undefined",Las Estrellas +1 (1080p)
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="" group-title="Undefined",Las Estrellas +2 (1080p)
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Leña TV
+https://5790d294af2dc.streamlock.net/lenaradiotv/lenaradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Maimón Digital TV (720p)
+https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Makina Vision TV
+https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Marka TV
+https://5790d294af2dc.streamlock.net/markatv/markatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Masacre TV
+https://cdn.gleidyhost.com:3466/live/masacretvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mega TV
+https://vdo1.streamgato.us:3711/live/megatvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Miavision TV
+https://rdn.essastream.com:3550/live/miavisiontvlive.m3u8
+#EXTINF:-1 tvg-id="MilennioTV.ar" tvg-logo="" group-title="Undefined",Milennio TV (720p)
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Miturno TV
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",MO Channel
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Montecristi Digital TV
+https://soportedvb.click:3400/live/montecristitvlive.m3u8
+#EXTINF:-1 tvg-id="MovieFe.co" tvg-logo="" group-title="Undefined",MovieFe (720p) [Not 24/7]
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Notisur TV
+https://ss9.domint.net:3006/nsb_str/notisur/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Oepm TV (720p)
+https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Onda Digital (720p) [Not 24/7]
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Oxi TV (720p)
+https://streamunoapp.com:3520/live/oxitvcanal36live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Palmar TV
+https://vsrv2.az-streamingserver.com:3255/live/palmartvlive.m3u8
+#EXTINF:-1 tvg-id="PATLaPaz.bo" tvg-logo="" group-title="Undefined",PAT La Paz (720p) [Not 24/7]
+https://w8.redpat.tv:7777/play/120/index.m3u8
+#EXTINF:-1 tvg-id="PATSantaCruz.bo" tvg-logo="" group-title="Undefined",PAT Santa Cruz (720p) [Not 24/7]
+https://w8.redpat.tv:7777/play/110/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Peru Visual TV
+https://stmv5.voxtvhd.com.br/peruvisual/peruvisual/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pituco TV (720p)
+https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Platinium TV
+https://fl1002.bozztv.com/ssh101/platiniumtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Plus TV (720p) [Not 24/7]
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAvidamodernadeRocko.us" tvg-logo="" group-title="Undefined",Pluto TV A vida moderna de Rocko (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAndromeda.us" tvg-logo="" group-title="Undefined",Pluto TV Andrómeda (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVArchivosForenses.us" tvg-logo="" group-title="Undefined",Pluto TV Archivos Forenses (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984f4a09e92d0007d74647/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVAsesinatosdeMidsomer.us" tvg-logo="" group-title="Undefined",Pluto TV Asesinatos de Midsomer (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVBobEsponja.us" tvg-logo="" group-title="Undefined",Pluto TV Bob Esponja (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVCurroJimenez.us" tvg-logo="" group-title="Undefined",Pluto TV Curro Jiménez (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVElConquistadordelFin.us" tvg-logo="" group-title="Undefined",Pluto TV El Conquistador del Fin (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVElEncantadordePerros.us" tvg-logo="" group-title="Undefined",Pluto TV El Encantador de Perros (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVEmpenosalobestia.us" tvg-logo="" group-title="Undefined",Pluto TV Empeños a lo bestia (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV EN DIRECTO EN VIVO (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appVersion=0&deviceDNT=0&deviceId=0&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&sid=9f61
+#EXTINF:-1 tvg-id="PlutoTVKenanyKel.us" tvg-logo="" group-title="Undefined",Pluto TV Kenan y Kel (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVLaChicaInvisible.us" tvg-logo="" group-title="Undefined",Pluto TV La Chica Invisible (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVLasreglasdeljuego.us" tvg-logo="" group-title="Undefined",Pluto TV Las reglas del juego (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVLosarchivosdelFBI.us" tvg-logo="" group-title="Undefined",Pluto TV Los archivos del FBI (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVMisterios.br" tvg-logo="" group-title="Undefined",Pluto TV Misterios (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="PlutoTVMisteriossinResolver.us" tvg-logo="" group-title="Undefined",Pluto TV Misterios sin Resolver (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV MTV (Mexico) (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV MTV Embarazada a los 16 (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVMTVTattooADos.us" tvg-logo="" group-title="Undefined",Pluto TV MTV Tattoo A Dos (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611b87946b7f420007c22361/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVMutanteX.us" tvg-logo="" group-title="Undefined",Pluto TV Mutante X (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVNovelasDrama.us" tvg-logo="" group-title="Undefined",Pluto TV Novelas Drama (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+#EXTINF:-1 tvg-id="PlutoTVTelemundoTelenovelas.us" tvg-logo="" group-title="Undefined",Pluto TV Telemundo Telenovelas (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVTurmadaMonica.us" tvg-logo="" group-title="Undefined",Pluto TV Turma da Mônica (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="PlutoTVVayasemanita.us" tvg-logo="" group-title="Undefined",Pluto TV Vaya semanita (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f28009b150b2500077766b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Prodotel TV (720p)
+https://ss3.domint.net:3140/ptv_str/prodoteltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Punto Canal 40 (720p)
+https://ss5.domint.net:3042/ptv_str/puntotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Punto TV (720p)
+https://vdo1.streamgato.us:3599/live/puntotvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",R television TV (720p)
+https://cnn2.hostlagarto.com:3325/live/rtelevisionlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Radio TV 809 Digital
+https://vdo.voxhdnet.com:3159/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Raiz TV
+https://5790d294af2dc.streamlock.net/raiztv/raiztv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",RCG TV (Timeshifted -2 Hours) (432p)
+https://video1.getstreamhosting.com:1936/8246/8246/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Reportero TV
+https://rdn.essastream.com:3832/live/reporterotvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rocavision TV
+https://vsrv2.az-streamingserver.com:3331/live/rocavisiontvlive.m3u8
+#EXTINF:-1 tvg-id="RTV12.py" tvg-logo="" group-title="Undefined",RTV 12 (720p)
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SEO TV 5 Deportes 2 (1080p) [Not 24/7]
+https://seo.tv.bo/tv/SEOtv_5B.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",SEO TV 6 Novelas 2 (1080p)
+https://seo.tv.bo/tv/SEOTV6.m3u8
+#EXTINF:-1 tvg-id="XHPBZCTDT1.mx" tvg-logo="" group-title="Undefined",SET Televisión Canal 26.1 (720p) [Not 24/7]
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 tvg-id="XHPBZCTDT2.mx" tvg-logo="" group-title="Undefined",SET Televisión Canal 26.2 (720p) [Not 24/7]
+http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Siembra TV (720p)
+https://streamunoapp.com:3809/live/siembratvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Solucion TV (720p)
+https://ss5.domint.net:3044/sotv_str/soluciontv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Spike Adventura (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Supremateve TV (720p)
+https://ss2.domint.net:3132/stv_str/supremateve/playlist.m3u8
+#EXTINF:-1 tvg-id="T13.cl" tvg-logo="" group-title="Undefined",T13 (720p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Taino TV (720p)
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tele Dajabon TV (720p)
+https://fl1002.bozztv.com/ssh101/teledajabon/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tele Dominicana TV (720p)
+https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tele Jaravacoa TV (720p)
+https://fl1002.bozztv.com/ssh101/amigote2021/playlist.m3u8
+#EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-logo="" group-title="Undefined",Telemax (XEWH-TDT) (1080p)
+http://s6.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Telerumba TV (720p)
+https://inliveserver.com:1936/18506/18506/playlist.m3u8
+#EXTINF:-1 tvg-id="TelesurEnglish.ve" tvg-logo="" group-title="Undefined",TeleSUR English (1080p) [Not 24/7]
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Televiaducto 14 (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_ad12f91017a111ef808c37cdf9d9abf0
+https://stream.castr.com/5ec16b5935bd933ad25fdd37/live_ad12f91017a111ef808c37cdf9d9abf0/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Televisiete.gt" tvg-logo="" group-title="Undefined",Televisiete (480p) [Not 24/7]
+https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tierra Vision TV (720p)
+https://soportedvb.click:3608/live/tierravisionlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tiguerito TV (720p)
+https://ss9.domint.net:3012/ttv_str/+tigueritotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Tinmarin TV (720p)
+https://tv.tinmarintv.com:3986/live/tinmarintvlive.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="" group-title="Undefined",TV Publica (1080p) [Not 24/7]
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TV QUISQUEYA (720p)
+https://fl1002.bozztv.com/ssh101/tvquisquelive92/playlist.m3u8
+#EXTINF:-1 tvg-id="TVU.bo" tvg-logo="" group-title="Undefined",TVU (720p) [Not 24/7]
+https://video.live.com.bo:3003/live/tvuumsalive.m3u8
+#EXTINF:-1 tvg-id="UCV3TV.cl" tvg-logo="" group-title="Undefined",UCV TV Eventos (720p) [Not 24/7]
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UNAMTransmedia.ar" tvg-logo="" group-title="Undefined",UNAM Transmedia (1080p)
+http://192.100.186.53:8090/hls/live.stream.m3u8
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-logo="" group-title="Undefined",Unitel Santa Cruz (1080p) [Not 24/7]
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="UPPTV.bo" tvg-logo="" group-title="Undefined",UPP TV/Bolivisión SCZ (720p) [Not 24/7]
+https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Vision Global TV (720p)
+https://ss5.domint.net:3012/vgtv_str/visionglobaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="WDWLDT1.pr" tvg-logo="" group-title="Undefined",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
+https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+#EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="" group-title="Undefined",WIPR (1080p)
+https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="" group-title="Undefined",WKAQ-DT1 (Telemundo PR) (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="" group-title="Undefined",WKAQ-DT2 (Punto 2) (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WRUADT1.pr" tvg-logo="" group-title="Undefined",WRUA-DT1 (Tiva TV) (720p)
+https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
+#EXTINF:-1 tvg-id="WWXYDT1.pr" tvg-logo="" group-title="Undefined",WWXY-DT1 (Boricua TV) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
+#EXTINF:-1 tvg-id="WWXYDT3.pr" tvg-logo="" group-title="Undefined",WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7]
+https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
+#EXTINF:-1 tvg-id="WXWZLD1.pr" tvg-logo="" group-title="Undefined",WXWZ-LD1 (MásTV Canal 23) (720p)
+https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",X TV Zona Film
+https://vdo.panelchs.com:3769/live/vdo54575151live.m3u8
+#EXTINF:-1 tvg-id="XLevelTV.pr" tvg-logo="" group-title="Undefined",XLevel TV (1080p)
+https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Xtra TV
+https://cnn.essastream.com:3387/live/xtratvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Xtrema Kids TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Zonavision TV
+https://5790d294af2dc.streamlock.net/Zonavisiontv/Zonavisiontv/playlist.m3u8

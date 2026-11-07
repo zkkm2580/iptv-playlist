@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AXN.cl" tvg-logo="" group-title="Undefined",AXN (1080p)
+https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal21.cl" tvg-logo="" group-title="Undefined",Canal 21 (720p) [Not 24/7]
+http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalLatino.cl" tvg-logo="" group-title="Undefined",Canal Latino (CL54) (360p)
+https://live.chileservidores.com:8081/latina/index.m3u8
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="" group-title="Undefined",Fanpop TV
+https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
+#EXTINF:-1 tvg-id="T13.cl" tvg-logo="" group-title="Undefined",T13 (720p)
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UCV3TV.cl" tvg-logo="" group-title="Undefined",UCV TV Eventos (720p) [Not 24/7]
+https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
