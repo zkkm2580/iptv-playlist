@@ -65,7 +65,7 @@ Same thing, but split up into separate files:
     <tr><td>Education</td><td align="right">164</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/education.m3u</code></td></tr>
     <tr><td>Entertainment</td><td align="right">529</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/entertainment.m3u</code></td></tr>
     <tr><td>Family</td><td align="right">36</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/family.m3u</code></td></tr>
-    <tr><td>General</td><td align="right">2399</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/general.m3u</code></td></tr>
+    <tr><td>General</td><td align="right">2403</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/general.m3u</code></td></tr>
     <tr><td>Interactive</td><td align="right">0</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/interactive.m3u</code></td></tr>
     <tr><td>Kids</td><td align="right">183</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/kids.m3u</code></td></tr>
     <tr><td>Legislative</td><td align="right">209</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/legislative.m3u</code></td></tr>
@@ -84,7 +84,7 @@ Same thing, but split up into separate files:
     <tr><td>Travel</td><td align="right">41</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/travel.m3u</code></td></tr>
     <tr><td>Weather</td><td align="right">11</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/weather.m3u</code></td></tr>
     <tr><td>XXX</td><td align="right">0</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/xxx.m3u</code></td></tr>
-    <tr><td>Undefined</td><td align="right">4771</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/undefined.m3u</code></td></tr>
+    <tr><td>Undefined</td><td align="right">4767</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/undefined.m3u</code></td></tr>
   </tbody>
 </table>
 
