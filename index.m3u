@@ -18290,7 +18290,7 @@ http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 #EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-logo="" group-title="General",Televizija M (1080p)
 https://live.tv-m.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TelevizijaTV7.me" tvg-logo="" group-title="Undefined",Televizija TV7 (360p)
+#EXTINF:-1 tvg-id="TelevizijaTV7.me" tvg-logo="" group-title="General",Televizija TV7 (360p)
 http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaBiznesowa.pl" tvg-logo="" group-title="Business",Telewizja Biznesowa (1080p)
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
@@ -20135,13 +20135,13 @@ https://tvc.mediacaribstream.com:5443/LiveApp/streams/102810068706751773675303.m
 https://tvc.mediacaribstream.com:5443/LiveApp/streams/503041699392698464410277.m3u8
 #EXTINF:-1 tvg-id="TVCentroAndalucia.es" tvg-logo="" group-title="Undefined",TVCentro Andalucía (720p) [Not 24/7]
 https://5fa5de1a545ae.streamlock.net/8052/8052/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCG1.me" tvg-logo="" group-title="Undefined",TVCG 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-logo="" group-title="General",TVCG 1 (720p) [Not 24/7]
 http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCG2.me" tvg-logo="" group-title="Undefined",TVCG 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-logo="" group-title="General",TVCG 2 (720p) [Not 24/7]
 http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCG3.me" tvg-logo="" group-title="Legislative",TVCG 3 (720p) [Not 24/7]
 https://parlament.rtcg.me:1936/pr/smil:parlament.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-logo="" group-title="Undefined",TVCG MNE (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-logo="" group-title="General",TVCG MNE (720p) [Not 24/7]
 http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCom.be" tvg-logo="" group-title="Undefined",TVCom [Geo-blocked]
 https://tvlocales-live.freecaster.com/95d2f656-50f1-432b-84a6-ce11c6cdb482/95d2f656-50f1-432b-84a6-ce11c6cdb482.isml/master.m3u8

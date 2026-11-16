@@ -3910,6 +3910,8 @@ https://ythls.armelin.one/channel/UCijOX8ka7E2cBsULVgY50QA.m3u8
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevizijaM.ba" tvg-logo="" group-title="General",Televizija M (1080p)
 https://live.tv-m.net/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TelevizijaTV7.me" tvg-logo="" group-title="General",Televizija TV7 (360p)
+http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/playlist.m3u8
 #EXTINF:-1 tvg-id="TelewizjaGorzow.pl" tvg-logo="" group-title="General",Telewizja Gorzów (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCt5sVDyzu0NhrjR-d_b-lhg.m3u8
 #EXTINF:-1 tvg-id="TelewizjaLuban.pl" tvg-logo="" group-title="General",Telewizja Lubań (720p) [Not 24/7]
@@ -4403,6 +4405,12 @@ https://helga.iptv2022.com/sh/TVC_BENIN/index.m3u8
 https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 #EXTINF:-1 tvg-id="TVCRio.br" tvg-logo="" group-title="General",TVC Rio (1080p)
 https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG1.me" tvg-logo="" group-title="General",TVCG 1 (720p) [Not 24/7]
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG2.me" tvg-logo="" group-title="General",TVCG 2 (720p) [Not 24/7]
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCGMNE.me" tvg-logo="" group-title="General",TVCG MNE (720p) [Not 24/7]
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br" tvg-logo="" group-title="General",TVCOM DF (360p)
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVCOMMaceio.br" tvg-logo="" group-title="General",TVCOM Maceió (480p)
