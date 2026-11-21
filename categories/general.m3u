@@ -3362,10 +3362,20 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS1.sn" tvg-logo="" group-title="General",RTS 1 (720p)
 http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-logo="" group-title="General",RTS 1 (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTS.ec" tvg-logo="" group-title="General",RTS (480p)
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-logo="" group-title="General",RTV 1 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-logo="" group-title="General",RTV 2 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv2
 #EXTINF:-1 tvg-id="RTV527.nl" tvg-logo="" group-title="General",RTV 527 (1080p)
 https://wowza3.videostreamingwowza.com/broadcastmediasolutions/broadcastmediasolutions/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAS.rs" tvg-logo="" group-title="General",RTV AS (576p)
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 tvg-id="RTVBap.rs" tvg-logo="" group-title="General",RTV Bap (480p)
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="" group-title="General",RTV Canal 57 (720p)
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="RTVChirripo.cr" tvg-logo="" group-title="General",RTV Chirripó (720p)
@@ -3387,6 +3397,8 @@ https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
 https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8
 #EXTINF:-1 tvg-id="RTVMeppel.nl" tvg-logo="" group-title="General",RTV Meppel (720p)
 https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-logo="" group-title="General",RTV Novi Pazar (576p)
+https://hls.rtvnp.rs/tvlive/75e168bf8304fe9b1fac9a6c2f702d590e1cf986.m3u8
 #EXTINF:-1 tvg-id="RTVNunspeet.nl" tvg-logo="" group-title="General",RTV Nunspeet (720p)
 https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVParkstad.nl" tvg-logo="" group-title="General",RTV Parkstad (1080p)
@@ -3419,6 +3431,8 @@ https://app.sama-tv.net/hls/samatv.m3u8
 https://amixtv.live:3753/live/sitvlive.m3u8
 #EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="" group-title="General",San Isidro TV (720p) [Not 24/7]
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
+#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-logo="" group-title="General",Sandzak TV (576p)
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel25.us" tvg-logo="" group-title="General",Santa Maria Community Television Public Access Channel (720p)
 https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SantiagoTV.do" tvg-logo="" group-title="General",Santiago TV (720p)
@@ -4302,6 +4316,10 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="" group-title="General",TV Perú Internacional (1080p)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-logo="" group-title="General",TV Pi Kanal (576p) [Not 24/7]
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 tvg-id="TVPirot.rs" tvg-logo="" group-title="General",TV Pirot (240p) [Not 24/7]
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlan.br" tvg-logo="" group-title="General",TV Plan (720p)
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlanaltoNorte.br" tvg-logo="" group-title="General",TV Planalto Norte (720p)

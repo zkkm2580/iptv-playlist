@@ -3222,6 +3222,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c8dd94e4391c0008eb4742/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=aceb234b-c468-44e9-9d0c-9a032be740c4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Germany",Top Gear
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64c109735dc1660008a4a2dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae9-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fa4b8f71-6f6a-4851-b8e9-716771846afc
+#EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-logo="" group-title="Germany",Totally Turtles
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8aea-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d3e241b-d6cf-44c2-bfcd-45ca4d693881
 #EXTINF:-1 tvg-id="TotallyTurtlesOV.de" tvg-logo="" group-title="Germany",Totally Turtles (OV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ea816a44457070007ffabc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84afb1f0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=275d9070-7e10-4407-a2c8-d35b6ac97886
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Germany",Transformers TV
@@ -20576,8 +20578,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://gohoski.fvds.ru:3000/mediabay/136/playlist.m3u8
 #EXTINF:-1 tvg-id="TotalBhakti.in" tvg-logo="" group-title="Undefined",Total Bhakti (1080p)
 https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
-#EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-logo="" group-title="Undefined",Totally Turtles
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8aea-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d3e241b-d6cf-44c2-bfcd-45ca4d693881
 #EXTINF:-1 tvg-id="Totovision.gt" tvg-logo="" group-title="Undefined",Totovisión (720p)
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-id="TownTV.kh" tvg-logo="" group-title="Undefined",Town TV

@@ -804,6 +804,8 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBZenith.bf" tvg-logo="" group-title="Culture",RTB Zénith (360p) [Geo-blocked]
 https://edge20.vedge.infomaniak.com/livecast/ik:zenith/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-logo="" group-title="Culture",RTS 2 (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-id="Salto2.nl" tvg-logo="" group-title="Culture",Salto 2 (720p)
 https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-logo="" group-title="Culture",Sanskar TV (1080p)
@@ -5895,10 +5897,20 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS1.sn" tvg-logo="" group-title="General",RTS 1 (720p)
 http://69.64.57.208/rts1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-logo="" group-title="General",RTS 1 (720p) [Not 24/7]
+https://webtvstream.bhtelecom.ba/rts1.m3u8
 #EXTINF:-1 tvg-id="RTS.ec" tvg-logo="" group-title="General",RTS (480p)
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV1.rs" tvg-logo="" group-title="General",RTV 1 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv1
+#EXTINF:-1 tvg-id="RTV2.rs" tvg-logo="" group-title="General",RTV 2 (576p) [Not 24/7]
+mmsh://212.200.255.151/rtv2
 #EXTINF:-1 tvg-id="RTV527.nl" tvg-logo="" group-title="General",RTV 527 (1080p)
 https://wowza3.videostreamingwowza.com/broadcastmediasolutions/broadcastmediasolutions/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAS.rs" tvg-logo="" group-title="General",RTV AS (576p)
+https://srv1.adriatelekom.com/TVAS/index.m3u8
+#EXTINF:-1 tvg-id="RTVBap.rs" tvg-logo="" group-title="General",RTV Bap (480p)
+https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVCanal57.sv" tvg-logo="" group-title="General",RTV Canal 57 (720p)
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 #EXTINF:-1 tvg-id="RTVChirripo.cr" tvg-logo="" group-title="General",RTV Chirripó (720p)
@@ -5920,6 +5932,8 @@ https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
 https://stream.castr.com/627a72d21914543be01c1720/live_e2ae1780dc2a11eca660b7b17b7952a5/index.m3u8
 #EXTINF:-1 tvg-id="RTVMeppel.nl" tvg-logo="" group-title="General",RTV Meppel (720p)
 https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-logo="" group-title="General",RTV Novi Pazar (576p)
+https://hls.rtvnp.rs/tvlive/75e168bf8304fe9b1fac9a6c2f702d590e1cf986.m3u8
 #EXTINF:-1 tvg-id="RTVNunspeet.nl" tvg-logo="" group-title="General",RTV Nunspeet (720p)
 https://ms7.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVParkstad.nl" tvg-logo="" group-title="General",RTV Parkstad (1080p)
@@ -5952,6 +5966,8 @@ https://app.sama-tv.net/hls/samatv.m3u8
 https://amixtv.live:3753/live/sitvlive.m3u8
 #EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-logo="" group-title="General",San Isidro TV (720p) [Not 24/7]
 https://rdn.essastream.com:3160/live/sanisidrotvlive.m3u8
+#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-logo="" group-title="General",Sandzak TV (576p)
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel25.us" tvg-logo="" group-title="General",Santa Maria Community Television Public Access Channel (720p)
 https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SantiagoTV.do" tvg-logo="" group-title="General",Santiago TV (720p)
@@ -6835,6 +6851,10 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="" group-title="General",TV Perú Internacional (1080p)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-logo="" group-title="General",TV Pi Kanal (576p) [Not 24/7]
+https://stream.pikanal.rs/pikanal/pgm.m3u8
+#EXTINF:-1 tvg-id="TVPirot.rs" tvg-logo="" group-title="General",TV Pirot (240p) [Not 24/7]
+https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlan.br" tvg-logo="" group-title="General",TV Plan (720p)
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlanaltoNorte.br" tvg-logo="" group-title="General",TV Planalto Norte (720p)
@@ -7738,8 +7758,6 @@ https://restreamer1.tnt.ba/hls/tntkids.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="ToonmaxTV.cn" tvg-logo="" group-title="Kids",Toonmax TV
 http://49.113.179.174:4022/udp/238.125.4.28:5140
-#EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-logo="" group-title="Kids",Totally Turtles
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8aea-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d3e241b-d6cf-44c2-bfcd-45ca4d693881
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="" group-title="Kids",TRT Çocuk (720p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="" group-title="Kids",TRT Diyanet Çocuk (720p)
@@ -13756,6 +13774,8 @@ https://serversv.com:8080/hls/tvgetsemani.m3u8
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGracia.co" tvg-logo="" group-title="Religious",TV Gracia (720p)
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TVHram.rs" tvg-logo="" group-title="Religious",TV Hram (576p) [Not 24/7]
+https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-id="TVIpiales.co" tvg-logo="" group-title="Religious",TV Ipiales (1080p)
 https://movil.ejeserver.com/live/tvipiales.m3u8
 #EXTINF:-1 tvg-id="TVLeondeJuda.sv" tvg-logo="" group-title="Religious",TV León de Judá (720p)
@@ -20436,20 +20456,12 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RTRSTV.ba" tvg-logo="" group-title="Undefined",RTRS TV (576p) [Not 24/7]
 https://uzivo.rtrs.tv/tv/live/index.m3u8
-#EXTINF:-1 tvg-id="RTS1.rs" tvg-logo="" group-title="Undefined",RTS 1 (720p) [Not 24/7]
-https://webtvstream.bhtelecom.ba/rts1.m3u8
-#EXTINF:-1 tvg-id="RTS2.rs" tvg-logo="" group-title="Undefined",RTS 2 (720p) [Not 24/7]
-https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-id="RTTRTrento.it" tvg-logo="" group-title="Undefined",RTTR Trento (720p)
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RTTV.cr" tvg-logo="" group-title="Undefined",RTTV (720p) [Not 24/7]
 https://cloudvideo.servers10.com:19360/8212/8212.m3u8
-#EXTINF:-1 tvg-id="RTV1.rs" tvg-logo="" group-title="Undefined",RTV 1 (576p) [Not 24/7]
-mmsh://212.200.255.151/rtv1
 #EXTINF:-1 tvg-id="RTV1.nl" tvg-logo="" group-title="Undefined",RTV 1 (720p)
 https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
-#EXTINF:-1 tvg-id="RTV2.rs" tvg-logo="" group-title="Undefined",RTV 2 (576p) [Not 24/7]
-mmsh://212.200.255.151/rtv2
 #EXTINF:-1 tvg-id="RTV12.py" tvg-logo="" group-title="Undefined",RTV 12 (720p)
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV.kr" tvg-logo="" group-title="Undefined",RTV (720p)
@@ -20460,10 +20472,6 @@ http://iptv.rtv-ooe.at/stream.m3u8
 https://live.rtva.nl/live/zender.m3u8
 #EXTINF:-1 tvg-id="RTVArnhemTV.nl" tvg-logo="" group-title="Undefined",RTV Arnhem (480p) [Not 24/7]
 https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAS.rs" tvg-logo="" group-title="Undefined",RTV AS (576p)
-https://srv1.adriatelekom.com/TVAS/index.m3u8
-#EXTINF:-1 tvg-id="RTVBap.rs" tvg-logo="" group-title="Undefined",RTV Bap (480p)
-https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCaraibes.ht" tvg-logo="" group-title="Undefined",RTV Caraibes (480p) [Not 24/7]
 https://ythls.armelin.one/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8
 #EXTINF:-1 tvg-id="RTVDordrecht.nl" tvg-logo="" group-title="Undefined",RTV Dordrecht (480p)
@@ -20491,8 +20499,6 @@ https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
 #EXTINF:-1 tvg-id="RTVNoordoostFriesland.nl" tvg-logo="" group-title="Undefined",RTV Noordoost Friesland (Achtkarspelen / Tytsjerksteradiel) [Not 24/7]
 https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8
-#EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-logo="" group-title="Undefined",RTV Novi Pazar (576p)
-https://hls.rtvnp.rs/tvlive/75e168bf8304fe9b1fac9a6c2f702d590e1cf986.m3u8
 #EXTINF:-1 tvg-id="RTVNuble.cl" tvg-logo="" group-title="Undefined",RTV Ñuble (720p)
 https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVOost.nl" tvg-logo="" group-title="Undefined",RTV Oost (720p)
@@ -20618,8 +20624,6 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
 https://iptv.ixfo.com.ar:30443/live/sanpedrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="SanVitoTelevision.cr" tvg-logo="" group-title="Undefined",San Vito Televisión (720p)
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
-#EXTINF:-1 tvg-id="SandzakTV.rs" tvg-logo="" group-title="Undefined",Sandzak TV (576p)
-https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
 #EXTINF:-1 tvg-id="SangajiTV.id" tvg-logo="" group-title="Undefined",Sangaji TV (720p) [Not 24/7]
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 #EXTINF:-1 tvg-id="SansadTV.in" tvg-logo="" group-title="Undefined",Sansad TV (1080p) [Not 24/7]
@@ -21875,6 +21879,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc868b95-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b2ee5356-efd5-40b6-a90d-5e5fdd74abb1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TOTALLY TURTLES
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e9-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3441abd1-12dc-4351-b79d-3b4eb58dc339
+#EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-logo="" group-title="Undefined",Totally Turtles
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8aea-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d3e241b-d6cf-44c2-bfcd-45ca4d693881
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Totally Turtles (OV)
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ea816a44457070007ffabc7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b215b53-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8980aa41-76aa-4ed3-a9a5-b5277d21bd7f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Totally Turtles (OV)
@@ -22161,8 +22167,6 @@ http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-id="TVHellin.es" tvg-logo="" group-title="Undefined",TV Hellín (720p)
 https://hellin-hls-live.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="TVHram.rs" tvg-logo="" group-title="Undefined",TV Hram (576p) [Not 24/7]
-https://vod1.laki.eu/live/hram/index.m3u8
 #EXTINF:-1 tvg-id="TVHronka.sk" tvg-logo="" group-title="Undefined",TV Hronka (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCdsKjmExW-0pFskKYbjNIQg.m3u8
 #EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-logo="" group-title="Undefined",TV Ingolstadt (1080p)
@@ -22225,10 +22229,6 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPantanalMS.br" tvg-logo="" group-title="Undefined",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-logo="" group-title="Undefined",TV Pi Kanal (576p) [Not 24/7]
-https://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1 tvg-id="TVPirot.rs" tvg-logo="" group-title="Undefined",TV Pirot (240p) [Not 24/7]
-https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPocos.br" tvg-logo="" group-title="Undefined",TV Poços (192p) [Not 24/7]
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPrato.it" tvg-logo="" group-title="Undefined",TV Prato (1080p)

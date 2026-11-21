@@ -293,8 +293,6 @@ https://restreamer1.tnt.ba/hls/tntkids.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="ToonmaxTV.cn" tvg-logo="" group-title="Kids",Toonmax TV
 http://49.113.179.174:4022/udp/238.125.4.28:5140
-#EXTINF:-1 tvg-id="TotallyTurtles.de" tvg-logo="" group-title="Kids",Totally Turtles
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8aea-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1d3e241b-d6cf-44c2-bfcd-45ca4d693881
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="" group-title="Kids",TRT Çocuk (720p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="" group-title="Kids",TRT Diyanet Çocuk (720p)
