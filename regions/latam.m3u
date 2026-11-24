@@ -132,6 +132,8 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Notisur TV
 https://ss9.domint.net:3006/nsb_str/notisur/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Undefined",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Oepm TV (720p)
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Onda Digital (720p) [Not 24/7]
@@ -311,6 +313,8 @@ https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 https://ss5.domint.net:3012/vgtv_str/visionglobaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="WDWLDT1.pr" tvg-logo="" group-title="Undefined",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Undefined",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="" group-title="Undefined",WIPR (1080p)
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="" group-title="Undefined",WKAQ-DT1 (Telemundo PR) (1080p)

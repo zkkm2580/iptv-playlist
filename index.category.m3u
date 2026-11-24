@@ -9569,8 +9569,6 @@ https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="NRGTV.gr" tvg-logo="" group-title="Music",NRG TV (720p)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Music",Nueva Vida TV (720p)
-https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="" group-title="Music",Number 1 Ask (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="" group-title="Music",Number 1 Damar (720p)
@@ -13432,8 +13430,6 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://ythls.armelin.one/channel/UCm0_NzofPCXJ44djiyz_uBg.m3u8
 #EXTINF:-1 tvg-id="NRBTV.us" tvg-logo="" group-title="Religious",NRB TV (480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Religious",Nueva Vida TV (720p)
-https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="" group-title="Religious",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OasisTV.co" tvg-logo="" group-title="Religious",Oasis TV (720p) [Not 24/7]
@@ -13860,8 +13856,6 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-id="WBSTV.kr" tvg-logo="" group-title="Religious",WBS TV (720p)
 http://157.245.196.186/live/livestream.m3u8
-#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Religious",WECN (Único TV) (720p)
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WholeWordTV.ng" tvg-logo="" group-title="Religious",Whole Word TV (720p)
 https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8
 #EXTINF:-1 tvg-id="WLMB.us" tvg-logo="" group-title="Religious",WLMB
@@ -18913,6 +18907,8 @@ https://ntd02.akamaized.net/NTD-West/index.m3u8
 https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 #EXTINF:-1 tvg-id="KBPXLD3.us" tvg-logo="" group-title="Undefined",Nudu
 https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Undefined",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nurse Jackie
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67c7a07e03a00088de834/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3872-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6b94fdc-baed-40a3-bf48-79f151084f30
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Nurse Jackie
@@ -22999,6 +22995,8 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="KCKSLD6.us" tvg-logo="" group-title="Undefined",WeatherNation (KCKS-LD6) (480p) [Not 24/7]
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Undefined",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WellTV.it" tvg-logo="" group-title="Undefined",Well TV
 https://5f22d76e220e1.streamlock.net/canale5/canale5/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Wellbeing TV

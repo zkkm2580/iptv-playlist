@@ -12530,7 +12530,7 @@ https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
 https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
 #EXTINF:-1 tvg-id="NuevaRegionTV.cl" tvg-logo="" group-title="General",Nueva Región TV (720p)
 http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Music;Religious",Nueva Vida TV (720p)
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Undefined",Nueva Vida TV (720p)
 https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="" group-title="General",Nueve TV San Luís Potosí (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
@@ -21583,7 +21583,7 @@ https://jukin-weatherspy-2-ca.samsung.wurl.tv/manifest/playlist.m3u8
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WEBTVPaixaoFM.pt" tvg-logo="" group-title="Entertainment",WEB TV Paixão FM (360p) [Not 24/7]
 https://stmv2.samcast.com.br/romeu6622/romeu6622/playlist.m3u8
-#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Religious",WECN (Único TV) (720p)
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Undefined",WECN (Único TV) (720p)
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WeddingTV.it" tvg-logo="" group-title="Culture",Wedding TV
 https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8

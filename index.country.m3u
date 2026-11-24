@@ -4004,8 +4004,12 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-id="WELUDT1.pr" tvg-logo="" group-title="Puerto Rico",CTNi (Christian Television Network International) (480p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Puerto Rico",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="WDWLDT1.pr" tvg-logo="" group-title="Puerto Rico",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Puerto Rico",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="" group-title="Puerto Rico",WIPR (1080p)
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="" group-title="Puerto Rico",WKAQ-DT1 (Telemundo PR) (1080p)
@@ -15985,8 +15989,6 @@ http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
 https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NuevaRegionTV.cl" tvg-logo="" group-title="Undefined",Nueva Región TV (720p)
 http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Undefined",Nueva Vida TV (720p)
-https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="" group-title="Undefined",Nueve TV San Luís Potosí (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-id="NuevoMundoTV.gt" tvg-logo="" group-title="Undefined",Nuevo Mundo TV (720p)
@@ -22864,8 +22866,6 @@ https://jukin-weatherspy-2-ca.samsung.wurl.tv/manifest/playlist.m3u8
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WEBTVPaixaoFM.pt" tvg-logo="" group-title="Undefined",WEB TV Paixão FM (360p) [Not 24/7]
 https://stmv2.samcast.com.br/romeu6622/romeu6622/playlist.m3u8
-#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Undefined",WECN (Único TV) (720p)
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WeddingTV.it" tvg-logo="" group-title="Undefined",Wedding TV
 https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
 #EXTINF:-1 tvg-id="WEEFFTV.nl" tvg-logo="" group-title="Undefined",WEEFF TV (1080p)

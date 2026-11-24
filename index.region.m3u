@@ -1671,6 +1671,8 @@ https://ntd02.akamaized.net/NTD-West/index.m3u8
 https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 #EXTINF:-1 tvg-id="KBPXLD3.us" tvg-logo="" group-title="Americas",Nudu
 https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Americas",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Americas",Oepm TV (720p)
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Americas",Olympic Channel [Geo-blocked]
@@ -2486,6 +2488,8 @@ http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="KCKSLD6.us" tvg-logo="" group-title="Americas",WeatherNation (KCKS-LD6) (480p) [Not 24/7]
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Americas",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WFMYDT1.us" tvg-logo="" group-title="Americas",WFMY-DT1 (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/elvs/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Americas",WFMZ Dorney Park Camera
@@ -5769,6 +5773,8 @@ https://soportedvb.click:3400/live/montecristitvlive.m3u8
 https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Caribbean",Notisur TV
 https://ss9.domint.net:3006/nsb_str/notisur/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Caribbean",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Caribbean",Oepm TV (720p)
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Caribbean",Oxi TV (720p)
@@ -5828,6 +5834,8 @@ https://fl1002.bozztv.com/ssh101/tvquisquelive92/playlist.m3u8
 https://ss5.domint.net:3012/vgtv_str/visionglobaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="WDWLDT1.pr" tvg-logo="" group-title="Caribbean",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Caribbean",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="" group-title="Caribbean",WIPR (1080p)
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="" group-title="Caribbean",WKAQ-DT1 (Telemundo PR) (1080p)
@@ -15781,6 +15789,8 @@ https://soportedvb.click:3400/live/montecristitvlive.m3u8
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hispanic America",Notisur TV
 https://ss9.domint.net:3006/nsb_str/notisur/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Hispanic America",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hispanic America",Oepm TV (720p)
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hispanic America",Onda Digital (720p) [Not 24/7]
@@ -15930,6 +15940,8 @@ https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 https://ss5.domint.net:3012/vgtv_str/visionglobaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="WDWLDT1.pr" tvg-logo="" group-title="Hispanic America",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Hispanic America",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="" group-title="Hispanic America",WIPR (1080p)
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="" group-title="Hispanic America",WKAQ-DT1 (Telemundo PR) (1080p)
@@ -16087,6 +16099,8 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latin America",Notisur TV
 https://ss9.domint.net:3006/nsb_str/notisur/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Latin America",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latin America",Oepm TV (720p)
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latin America",Onda Digital (720p) [Not 24/7]
@@ -16266,6 +16280,8 @@ https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 https://ss5.domint.net:3012/vgtv_str/visionglobaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="WDWLDT1.pr" tvg-logo="" group-title="Latin America",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Latin America",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="" group-title="Latin America",WIPR (1080p)
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="" group-title="Latin America",WKAQ-DT1 (Telemundo PR) (1080p)
@@ -16425,6 +16441,8 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 https://watch.haitilive.net/naktvhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latin America and the Caribbean",Notisur TV
 https://ss9.domint.net:3006/nsb_str/notisur/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Latin America and the Caribbean",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latin America and the Caribbean",Oepm TV (720p)
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latin America and the Caribbean",Onda Digital (720p) [Not 24/7]
@@ -16604,6 +16622,8 @@ https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
 https://ss5.domint.net:3012/vgtv_str/visionglobaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="WDWLDT1.pr" tvg-logo="" group-title="Latin America and the Caribbean",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Latin America and the Caribbean",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WIPRDT1.pr" tvg-logo="" group-title="Latin America and the Caribbean",WIPR (1080p)
 https://cprdp.pr/hls/stream/index.m3u8?tkn=3130025789
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="" group-title="Latin America and the Caribbean",WKAQ-DT1 (Telemundo PR) (1080p)
@@ -18499,6 +18519,8 @@ https://ntd02.akamaized.net/NTD-West/index.m3u8
 https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 #EXTINF:-1 tvg-id="KBPXLD3.us" tvg-logo="" group-title="North America",Nudu
 https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="North America",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="North America",Oepm TV (720p)
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="North America",Olympic Channel [Geo-blocked]
@@ -19254,6 +19276,8 @@ http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="KCKSLD6.us" tvg-logo="" group-title="North America",WeatherNation (KCKS-LD6) (480p) [Not 24/7]
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="North America",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WFMYDT1.us" tvg-logo="" group-title="North America",WFMY-DT1 (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/elvs/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="North America",WFMZ Dorney Park Camera
@@ -34394,6 +34418,8 @@ https://ntd02.akamaized.net/NTD-West/index.m3u8
 https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 #EXTINF:-1 tvg-id="KBPXLD3.us" tvg-logo="" group-title="Worldwide",Nudu
 https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Worldwide",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Worldwide",Nurse Jackie
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a67c7a07e03a00088de834/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1f3872-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6b94fdc-baed-40a3-bf48-79f151084f30
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Worldwide",Nurse Jackie
@@ -36568,6 +36594,8 @@ https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="KCKSLD6.us" tvg-logo="" group-title="Worldwide",WeatherNation (KCKS-LD6) (480p) [Not 24/7]
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Worldwide",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Worldwide",Wellbeing TV
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62f21f7e0f61420008273b9e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e06b101-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c44e8c0-697e-4427-8e61-0aaafe70cf08
 #EXTINF:-1 tvg-id="WFMYDT1.us" tvg-logo="" group-title="Worldwide",WFMY-DT1 (1080p)
@@ -47182,8 +47210,6 @@ http://stream.nubar.tv:1935/private/NUBARtv/playlist.m3u8
 https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NuevaRegionTV.cl" tvg-logo="" group-title="Undefined",Nueva Región TV (720p)
 http://live.mundogo.cl/mundo/Nuevaregion/index.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Undefined",Nueva Vida TV (720p)
-https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-logo="" group-title="Undefined",Nueve TV San Luís Potosí (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-id="NuevoMundoTV.gt" tvg-logo="" group-title="Undefined",Nuevo Mundo TV (720p)
@@ -54061,8 +54087,6 @@ https://jukin-weatherspy-2-ca.samsung.wurl.tv/manifest/playlist.m3u8
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WEBTVPaixaoFM.pt" tvg-logo="" group-title="Undefined",WEB TV Paixão FM (360p) [Not 24/7]
 https://stmv2.samcast.com.br/romeu6622/romeu6622/playlist.m3u8
-#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Undefined",WECN (Único TV) (720p)
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WeddingTV.it" tvg-logo="" group-title="Undefined",Wedding TV
 https://stream.cp.ets-sistemi.it:1936/profservtv/profservtv/playlist.m3u8
 #EXTINF:-1 tvg-id="WEEFFTV.nl" tvg-logo="" group-title="Undefined",WEEFF TV (1080p)

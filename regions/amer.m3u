@@ -1624,6 +1624,8 @@ https://ntd02.akamaized.net/NTD-West/index.m3u8
 https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 #EXTINF:-1 tvg-id="KBPXLD3.us" tvg-logo="" group-title="Undefined",Nudu
 https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Undefined",Nueva Vida TV (720p)
+https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Oepm TV (720p)
 https://cnn.essastream.com:3318/live/oepmtelevisionlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Olympic Channel [Geo-blocked]
@@ -2439,6 +2441,8 @@ http://dai.google.com/linear/hls/event/iVH_b5kWTteyRCy-YCoHOw/master.m3u8
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 #EXTINF:-1 tvg-id="KCKSLD6.us" tvg-logo="" group-title="Undefined",WeatherNation (KCKS-LD6) (480p) [Not 24/7]
 https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Undefined",WECN (Único TV) (720p)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WFMYDT1.us" tvg-logo="" group-title="Undefined",WFMY-DT1 (1080p)
 https://livevideo01.wfmynews2.com/hls/live/2016285/elvs/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",WFMZ Dorney Park Camera

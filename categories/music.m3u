@@ -677,8 +677,6 @@ https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="NRGTV.gr" tvg-logo="" group-title="Music",NRG TV (720p)
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Music;Religious",Nueva Vida TV (720p)
-https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-logo="" group-title="Music",Number 1 Ask (720p)
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Number1Damar.tr" tvg-logo="" group-title="Music",Number 1 Damar (720p)

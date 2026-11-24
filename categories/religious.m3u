@@ -1103,8 +1103,6 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://ythls.armelin.one/channel/UCm0_NzofPCXJ44djiyz_uBg.m3u8
 #EXTINF:-1 tvg-id="NRBTV.us" tvg-logo="" group-title="Religious",NRB TV (480p)
 https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-logo="" group-title="Music;Religious",Nueva Vida TV (720p)
-https://vip.livecastnet.com:3206/live/nuevavidalive.m3u8
 #EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-logo="" group-title="Religious",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OasisTV.co" tvg-logo="" group-title="Religious",Oasis TV (720p) [Not 24/7]
@@ -1531,8 +1529,6 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1 tvg-id="WBSTV.kr" tvg-logo="" group-title="Religious",WBS TV (720p)
 http://157.245.196.186/live/livestream.m3u8
-#EXTINF:-1 tvg-id="WECN.pr" tvg-logo="" group-title="Religious",WECN (Único TV) (720p)
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
 #EXTINF:-1 tvg-id="WholeWordTV.ng" tvg-logo="" group-title="Religious",Whole Word TV (720p)
 https://mn-nl.mncdn.com/wholewordtv/wholewordtv/index.m3u8
 #EXTINF:-1 tvg-id="WLMB.us" tvg-logo="" group-title="Religious",WLMB
