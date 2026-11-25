@@ -71,7 +71,7 @@ Same thing, but split up into separate files:
     <tr><td>Legislative</td><td align="right">209</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/legislative.m3u</code></td></tr>
     <tr><td>Lifestyle</td><td align="right">86</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/lifestyle.m3u</code></td></tr>
     <tr><td>Movies</td><td align="right">224</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/movies.m3u</code></td></tr>
-    <tr><td>Music</td><td align="right">654</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/music.m3u</code></td></tr>
+    <tr><td>Music</td><td align="right">653</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/music.m3u</code></td></tr>
     <tr><td>News</td><td align="right">958</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/news.m3u</code></td></tr>
     <tr><td>Outdoor</td><td align="right">50</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/outdoor.m3u</code></td></tr>
     <tr><td>Public</td><td align="right">28</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/public.m3u</code></td></tr>
@@ -85,7 +85,7 @@ Same thing, but split up into separate files:
     <tr><td>Weather</td><td align="right">11</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/weather.m3u</code></td></tr>
     <tr><td>Woman</td><td align="right">0</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/woman.m3u</code></td></tr>
     <tr><td>XXX</td><td align="right">0</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/xxx.m3u</code></td></tr>
-    <tr><td>Undefined</td><td align="right">4759</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/undefined.m3u</code></td></tr>
+    <tr><td>Undefined</td><td align="right">4760</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/categories/undefined.m3u</code></td></tr>
   </tbody>
 </table>
 
@@ -207,7 +207,7 @@ Same thing, but split up into separate files:
     <tr><td>🇵🇭 Philippines</td><td align="right">3</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/countries/ph.m3u</code></td></tr>
     <tr><td>🇵🇱 Poland</td><td align="right">1</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/countries/pl.m3u</code></td></tr>
     <tr><td>🇵🇹 Portugal</td><td align="right">5</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/countries/pt.m3u</code></td></tr>
-    <tr><td>🇵🇷 Puerto Rico</td><td align="right">12</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/countries/pr.m3u</code></td></tr>
+    <tr><td>🇵🇷 Puerto Rico</td><td align="right">13</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/countries/pr.m3u</code></td></tr>
     <tr><td>🇶🇦 Qatar</td><td align="right">1</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/countries/qa.m3u</code></td></tr>
     <tr><td>🇷🇴 Romania</td><td align="right">2</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/countries/ro.m3u</code></td></tr>
     <tr><td>🇷🇺 Russia</td><td align="right">49</td><td nowrap><code>https://zkkm2580.github.io/iptv-playlist/countries/ru.m3u</code></td></tr>
@@ -257,14 +257,14 @@ Same thing, but split up into separate files:
   </thead>
   <tbody>
     <tr><td align="left">Africa</td><td align="right">22</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/afr.m3u</code></td></tr>
-    <tr><td align="left">Americas</td><td align="right">1294</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/amer.m3u</code></td></tr>
+    <tr><td align="left">Americas</td><td align="right">1295</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/amer.m3u</code></td></tr>
     <tr><td align="left">Arab world</td><td align="right">31</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/arab.m3u</code></td></tr>
     <tr><td align="left">Asia</td><td align="right">731</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/asia.m3u</code></td></tr>
     <tr><td align="left">Asia-Pacific</td><td align="right">668</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/apac.m3u</code></td></tr>
     <tr><td align="left">Association of Southeast Asian Nations</td><td align="right">50</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/asean.m3u</code></td></tr>
     <tr><td align="left">Balkan</td><td align="right">23</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/balkan.m3u</code></td></tr>
     <tr><td align="left">Benelux</td><td align="right">19</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/benelux.m3u</code></td></tr>
-    <tr><td align="left">Caribbean</td><td align="right">81</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/carib.m3u</code></td></tr>
+    <tr><td align="left">Caribbean</td><td align="right">82</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/carib.m3u</code></td></tr>
     <tr><td align="left">Central America</td><td align="right">13</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/cenamer.m3u</code></td></tr>
     <tr><td align="left">Central and Eastern Europe</td><td align="right">73</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/cee.m3u</code></td></tr>
     <tr><td align="left">Central Asia</td><td align="right">1</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/cas.m3u</code></td></tr>
@@ -276,14 +276,14 @@ Same thing, but split up into separate files:
     <tr><td align="left">Europe, the Middle East and Africa</td><td align="right">1345</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/emea.m3u</code></td></tr>
     <tr><td align="left">European Union</td><td align="right">915</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/eu.m3u</code></td></tr>
     <tr><td align="left">Gulf Cooperation Council</td><td align="right">9</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/gcc.m3u</code></td></tr>
-    <tr><td align="left">Hispanic America</td><td align="right">150</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/hispam.m3u</code></td></tr>
-    <tr><td align="left">Latin America</td><td align="right">169</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/latam.m3u</code></td></tr>
-    <tr><td align="left">Latin America and the Caribbean</td><td align="right">171</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/lac.m3u</code></td></tr>
+    <tr><td align="left">Hispanic America</td><td align="right">151</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/hispam.m3u</code></td></tr>
+    <tr><td align="left">Latin America</td><td align="right">170</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/latam.m3u</code></td></tr>
+    <tr><td align="left">Latin America and the Caribbean</td><td align="right">172</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/lac.m3u</code></td></tr>
     <tr><td align="left">Maghreb</td><td align="right">8</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/maghreb.m3u</code></td></tr>
     <tr><td align="left">Middle East</td><td align="right">49</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/mideast.m3u</code></td></tr>
     <tr><td align="left">Middle East and North Africa</td><td align="right">57</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/mena.m3u</code></td></tr>
     <tr><td align="left">Nordics</td><td align="right">26</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/nord.m3u</code></td></tr>
-    <tr><td align="left">North America</td><td align="right">1242</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/noram.m3u</code></td></tr>
+    <tr><td align="left">North America</td><td align="right">1243</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/noram.m3u</code></td></tr>
     <tr><td align="left">Northern America</td><td align="right">1112</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/nam.m3u</code></td></tr>
     <tr><td align="left">Northern Europe</td><td align="right">28</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/neu.m3u</code></td></tr>
     <tr><td align="left">Oceania</td><td align="right">46</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/oce.m3u</code></td></tr>
@@ -297,7 +297,7 @@ Same thing, but split up into separate files:
     <tr><td align="left">West Africa</td><td align="right">1</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/waf.m3u</code></td></tr>
     <tr><td align="left">West Asia</td><td align="right">61</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/was.m3u</code></td></tr>
     <tr><td align="left">Western Europe</td><td align="right">1002</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/wer.m3u</code></td></tr>
-    <tr><td align="left">Worldwide</td><td align="right">3317</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/ww.m3u</code></td></tr>
+    <tr><td align="left">Worldwide</td><td align="right">3318</td><td align="left" nowrap><code>https://zkkm2580.github.io/iptv-playlist/regions/ww.m3u</code></td></tr>
   </tbody>
 </table>
 
