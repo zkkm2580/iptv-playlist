@@ -2602,6 +2602,8 @@ https://livevideo01.11alive.com/hls/live/2015499/elvs/live.m3u8
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-id="WXXVDT1.us" tvg-logo="" group-title="Americas",WXXV-TV News (Biloxi MS) (720p)
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
+#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="Americas",WZNT (Zeta 93) (1080p) [Not 24/7]
+https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="WZZMDT1.us" tvg-logo="" group-title="Americas",WZZM-DT1 (1080p)
 https://livevideo01.wzzm13.com/hls/live/2016280/elvs/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Americas",X TV Zona Film
@@ -5852,6 +5854,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 #EXTINF:-1 tvg-id="WXWZLD1.pr" tvg-logo="" group-title="Caribbean",WXWZ-LD1 (MásTV Canal 23) (720p)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="Caribbean",WZNT (Zeta 93) (1080p) [Not 24/7]
+https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="XLevelTV.pr" tvg-logo="" group-title="Caribbean",XLevel TV (1080p)
 https://tv.portalexpress.es:3220/live/xleveladminlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Caribbean",Xtra TV
@@ -15956,6 +15960,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 #EXTINF:-1 tvg-id="WXWZLD1.pr" tvg-logo="" group-title="Hispanic America",WXWZ-LD1 (MásTV Canal 23) (720p)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="Hispanic America",WZNT (Zeta 93) (1080p) [Not 24/7]
+https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hispanic America",X TV Zona Film
 https://vdo.panelchs.com:3769/live/vdo54575151live.m3u8
 #EXTINF:-1 tvg-id="XLevelTV.pr" tvg-logo="" group-title="Hispanic America",XLevel TV (1080p)
@@ -16296,6 +16302,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 #EXTINF:-1 tvg-id="WXWZLD1.pr" tvg-logo="" group-title="Latin America",WXWZ-LD1 (MásTV Canal 23) (720p)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="Latin America",WZNT (Zeta 93) (1080p) [Not 24/7]
+https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latin America",X TV Zona Film
 https://vdo.panelchs.com:3769/live/vdo54575151live.m3u8
 #EXTINF:-1 tvg-id="XLevelTV.pr" tvg-logo="" group-title="Latin America",XLevel TV (1080p)
@@ -16640,6 +16648,8 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
 #EXTINF:-1 tvg-id="WXWZLD1.pr" tvg-logo="" group-title="Latin America and the Caribbean",WXWZ-LD1 (MásTV Canal 23) (720p)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
+#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="Latin America and the Caribbean",WZNT (Zeta 93) (1080p) [Not 24/7]
+https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Latin America and the Caribbean",X TV Zona Film
 https://vdo.panelchs.com:3769/live/vdo54575151live.m3u8
 #EXTINF:-1 tvg-id="XLevelTV.pr" tvg-logo="" group-title="Latin America and the Caribbean",XLevel TV (1080p)
@@ -19390,6 +19400,8 @@ https://livevideo01.11alive.com/hls/live/2015499/elvs/live.m3u8
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-id="WXXVDT1.us" tvg-logo="" group-title="North America",WXXV-TV News (Biloxi MS) (720p)
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
+#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="North America",WZNT (Zeta 93) (1080p) [Not 24/7]
+https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="WZZMDT1.us" tvg-logo="" group-title="North America",WZZM-DT1 (1080p)
 https://livevideo01.wzzm13.com/hls/live/2016280/elvs/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="North America",XITE Classic Country
@@ -36756,6 +36768,8 @@ https://livevideo01.11alive.com/hls/live/2015499/elvs/live.m3u8
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-id="WXXVDT1.us" tvg-logo="" group-title="Worldwide",WXXV-TV News (Biloxi MS) (720p)
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
+#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="Worldwide",WZNT (Zeta 93) (1080p) [Not 24/7]
+https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="WZZMDT1.us" tvg-logo="" group-title="Worldwide",WZZM-DT1 (1080p)
 https://livevideo01.wzzm13.com/hls/live/2016280/elvs/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Worldwide",X TV Zona Film
@@ -54215,8 +54229,6 @@ https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
 https://live2.telvi.de/hls/wwtv_hd720.m3u8
 #EXTINF:-1 tvg-id="WWONTVChannel48.us" tvg-logo="" group-title="Undefined",WWON TV CH 48
 https://hls-cdn.tvstartup16.net/tvstartup16-channel/live/mp4:jimbobklynedge/playlist.m3u8
-#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="Undefined",WZNT (Zeta 93) (1080p) [Not 24/7]
-https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="X24.ar" tvg-logo="" group-title="Undefined",X24 (360p)
 http://srv1.zcast.com.ar/x24hd/x24hd/playlist.m3u8
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-logo="" group-title="Undefined",X TV Chachapoyas (720p)

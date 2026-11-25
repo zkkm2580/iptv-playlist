@@ -10140,8 +10140,6 @@ https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="WVCULP.us" tvg-shift="0" tvg-logo="" group-title="Music",WVCU-LP Concord University Radio The Cure 97.7 (1080p)
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
-#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="Music",WZNT (Zeta 93) (1080p) [Not 24/7]
-https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="XalastraTV.gr" tvg-logo="" group-title="Music",Xalastra TV (480p)
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-logo="" group-title="Music",Xite (720p)
@@ -23201,6 +23199,8 @@ https://livevideo01.11alive.com/hls/live/2015499/elvs/live.m3u8
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-id="WXXVDT1.us" tvg-logo="" group-title="Undefined",WXXV-TV News (Biloxi MS) (720p)
 https://dai.google.com/linear/hls/event/cJXgmHHTQIGMhSzDk7TBsA/master.m3u8
+#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="Undefined",WZNT (Zeta 93) (1080p) [Not 24/7]
+https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="WZZMDT1.us" tvg-logo="" group-title="Undefined",WZZM-DT1 (1080p)
 https://livevideo01.wzzm13.com/hls/live/2016280/elvs/live.m3u8
 #EXTINF:-1 tvg-id="X24.ar" tvg-logo="" group-title="Undefined",X24 (360p)

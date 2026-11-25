@@ -1248,8 +1248,6 @@ https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 #EXTINF:-1 tvg-id="WVCULP.us" tvg-shift="0" tvg-logo="" group-title="Music",WVCU-LP Concord University Radio The Cure 97.7 (1080p)
 https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8
-#EXTINF:-1 tvg-id="Zeta93.pr" tvg-logo="" group-title="Music",WZNT (Zeta 93) (1080p) [Not 24/7]
-https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
 #EXTINF:-1 tvg-id="XalastraTV.gr" tvg-logo="" group-title="Music",Xalastra TV (480p)
 https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.nl" tvg-logo="" group-title="Music",Xite (720p)
