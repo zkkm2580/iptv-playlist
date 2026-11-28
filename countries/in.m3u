@@ -35,6 +35,8 @@ http://14.199.164.20:4001/play/a0j5/index.m3u8
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",InWild (720p)
 https://inwild-samsungindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="" group-title="Undefined",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="MAVTV.us" tvg-logo="" group-title="Undefined",Mav TV
 https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="" group-title="Undefined",Nickelodeon Sonic Hindi (1080p)

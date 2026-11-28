@@ -10473,7 +10473,7 @@ https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="MakoiVarosiTelevizio.hu" tvg-logo="" group-title="General",Makói Városi (576p)
 http://makomedia.mikrohalo.hu/hls/makotv.m3u8
-#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="" group-title="News",Malabar News (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="" group-title="Undefined",Malabar News (720p) [Not 24/7]
 http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Malaga24h.es" tvg-logo="" group-title="News",Málaga 24h (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCoMWImnPAur6JhXDK63dpAg.m3u8

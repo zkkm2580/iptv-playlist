@@ -2976,6 +2976,8 @@ https://api.alpaca.t62a.com/hls/9110/index.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KDOCDT7.us" tvg-logo="" group-title="Asia",Little Saigon TV (720p)
 https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="" group-title="Asia",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Asia",Manas TV (1080p)
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-id="MAVTV.us" tvg-logo="" group-title="Asia",Mav TV
@@ -4439,6 +4441,8 @@ https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
 https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/18a65393-ba3b-4912-90d5-7188c128ac66/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Asia-Pacific",Magellen TV
 https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="" group-title="Asia-Pacific",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="MAVTV.us" tvg-logo="" group-title="Asia-Pacific",Mav TV
 https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Asia-Pacific",MCS (720p)
@@ -21957,6 +21961,8 @@ https://live.relentlessinnovations.net:1936/imantv/imantv/playlist.m3u8
 https://inwild-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="JaTV.bd" tvg-logo="" group-title="South Asia",JaTV (720p)
 https://cloud2.smartsolbd.com/live/jatvbd/index.m3u8
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="" group-title="South Asia",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="MAVTV.us" tvg-logo="" group-title="South Asia",Mav TV
 https://mavtv-mavtvglobal-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="" group-title="South Asia",Nickelodeon Sonic Hindi (1080p)
@@ -25059,6 +25065,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2
 https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="United Nations",Makina Vision TV
 https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="" group-title="United Nations",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Malaimurasu.in" tvg-logo="" group-title="United Nations",Malaimurasu (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="United Nations",Malta (720p) [Not 24/7]
@@ -33815,6 +33823,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6349279ed5023700078f2
 https://ss9.domint.net:3038/mtvd_str/miamontv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Worldwide",Makina Vision TV
 https://vdopanel.jlahozconsulting.com/p/3303/live/makinalive.m3u8
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="" group-title="Worldwide",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Malaimurasu.in" tvg-logo="" group-title="Worldwide",Malaimurasu (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Worldwide",Malta (720p) [Not 24/7]
@@ -45782,8 +45792,6 @@ https://media2.streambrothers.com:1936/8128/8128/playlist.m3u8
 https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1 tvg-id="MakoiVarosiTelevizio.hu" tvg-logo="" group-title="Undefined",Makói Városi (576p)
 http://makomedia.mikrohalo.hu/hls/makotv.m3u8
-#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="" group-title="Undefined",Malabar News (720p) [Not 24/7]
-http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="Malaga24h.es" tvg-logo="" group-title="Undefined",Málaga 24h (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCoMWImnPAur6JhXDK63dpAg.m3u8
 #EXTINF:-1 tvg-id="MalbecPlay.ar" tvg-logo="" group-title="Undefined",Malbec Play (1080p)

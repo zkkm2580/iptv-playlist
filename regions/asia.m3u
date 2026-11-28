@@ -270,6 +270,8 @@ https://api.alpaca.t62a.com/hls/9110/index.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laoheritagetv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KDOCDT7.us" tvg-logo="" group-title="Undefined",Little Saigon TV (720p)
 https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="" group-title="Undefined",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Manas TV (1080p)
 http://212.42.111.152:8080/hls/manas.m3u8
 #EXTINF:-1 tvg-id="MAVTV.us" tvg-logo="" group-title="Undefined",Mav TV
